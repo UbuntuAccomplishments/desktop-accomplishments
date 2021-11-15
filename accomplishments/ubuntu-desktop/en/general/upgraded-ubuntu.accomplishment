@@ -8,6 +8,6 @@
   "steps": "Install Ubuntu.\nOnce a new release comes out, Launch the Update Manager.\nClick the <i>Check</i> but to check for new updates.  After checking for updates, click on <i>Upgrade</i>.\nRead the message about the new release and click <i>Upgrade</i> again.",
   "links": "http://www.ubuntu.com/download/desktop/upgrade",
   "https": "//wiki.ubuntu.com/Releases",
-  "help": "#ubuntu on Freenode",
+  "help": "#ubuntu on LiberaChat",
   "author": "Matt Fischer <matthew.fischer@ubuntu.com>"
 }
