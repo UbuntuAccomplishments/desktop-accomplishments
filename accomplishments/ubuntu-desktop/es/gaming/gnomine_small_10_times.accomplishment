@@ -1,0 +1,12 @@
+{
+  "title": "Desminado practicado",
+  "description": "Ganar en el juego Gnomine pequeño 10 veces",
+  "collection": "ubuntu-desktop",
+  "category": "Games:Gnomine",
+  "icon": "gnomine.png",
+  "depends": "ubuntu-desktop/gnomine_win-small",
+  "author": "Rafał Cieślak <rafalcieslak256@ubuntu.com>",
+  "summary": "Pude conseguir este logro terminando una partida de Gnomine de nivel pequeño 10 veces.",
+  "steps": "Iniciar Gnomine. \nElegir el juego 8x8 (pequeño).\nEncontrar todas las minas escondidas\nRepetir 10 veces.",
+  "tips": "Aprender las reglas del juego desde la ayuda de Gnomine.\nEste logro no debería llevarte mucho tiempo. ¡Es fácil!"
+}

@@ -1,0 +1,12 @@
+{
+  "title": "Gwibber - Added Twitter",
+  "description": "You have added your twitter account to Gwibber",
+  "category": "Networking:Gwibber",
+  "icon": "twitter.png",
+  "author": "s.fox <silver-fox@ubuntu.com>",
+  "collection": "ubuntu-desktop",
+  "summary": "Gwibber is the social media client built into Ubuntu Desktop. It is capable of viewing and posting status updates on popular microblogging and social sites such as Twitter, Facebook and Identi.ca\nThis accomplishment is awarded when you have authorised your <b>twitter</b> account with Gwibber",
+  "steps": "Click the <i>Dash Home</i>\nEnter <i>Gwibber</i>\nYou will be presented with the Gwibber application\nClick the <i>Gwibber</i> icon\nIn the menu navigate to <b>Edit</b> <b>Accounts</b>\nClick the + button\nSelect twitter and then click the Add button\nClick Authorise\nEnter your twitter details and click 'Authorize App'",
+  "tips": "You can add several twitter accounts to gwibber",
+  "help": "https://wiki.ubuntu.com/Gwibber\nhttp://live.gnome.org/Gwibber"
+}

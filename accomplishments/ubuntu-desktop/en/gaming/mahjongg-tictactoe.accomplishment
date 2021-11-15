@@ -1,0 +1,10 @@
+{
+  "title": "Completed Mahjongg - The Tic-Tac-Toe Level",
+  "description": "You have completed Mahjongg - The Tic-Tac-Toe Level",
+  "category": "Games:Mahjongg",
+  "collection": "ubuntu-desktop",
+  "icon": "mahjongg.png",
+  "summary": "Mahjongg is a solitaire (one player) version of the classic Eastern tile game, Mahjongg. The objective is to select pairs of similar tiles.  To achieve this accomplishment all you need to do is to clear the grid on the The Tic-Tac-Toe level",
+  "help": "https://live.gnome.org/Mahjongg",
+  "author": "s.fox <silver-fox@ubuntu.com>"
+}

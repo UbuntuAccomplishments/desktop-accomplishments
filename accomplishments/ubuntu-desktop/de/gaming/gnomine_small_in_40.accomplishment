@@ -1,0 +1,12 @@
+{
+  "title": "Timed Minesweeping",
+  "description": "Gewinnen Sie ein kleines Spiel Minen in unter 40 Sekunden",
+  "collection": "ubuntu-desktop",
+  "category": "Games:Gnomine",
+  "icon": "gnomine.png",
+  "depends": "ubuntu-desktop/gnomine_win-small",
+  "author": "Rafał Cieślak <rafalcieslak256@ubuntu.com>",
+  "summary": "Um diese Trophäe zu erhalten, absolvieren Sie ein kleines Spiel Minen in unter 40 Sekunden",
+  "steps": "Starten Sie Minen.\nWählen Sie ein 8x8 Spiel.\nFinden Sie alle versteckten Minen so schnell wie möglich!\nAbsolvieren Sie das Spiel in unter 40 Sekunden!",
+  "tips": "Übung, Übung, Übung. Wenn Sie nicht schnell genug sind, verbessern Sie Ihre Fähigkeiten indem Sie viel üben.\nDies ist eine einfache Errungenschaft. Wenn Sie kein Anfänger sind sollten es Ihnen leicht fallen."
+}

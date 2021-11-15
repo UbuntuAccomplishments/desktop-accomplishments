@@ -1,0 +1,12 @@
+{
+  "title": "Senior Minesweeper",
+  "description": "Gewinnen Sie 10 mal ein mittelgroßes Spiel Minen",
+  "collection": "ubuntu-desktop",
+  "category": "Games:Gnomine",
+  "icon": "gnomine.png",
+  "depends": "ubuntu-desktop/gnomine_medium_5_times",
+  "author": "Rafał Cieślak <rafalcieslak256@ubuntu.com>",
+  "summary": "Sie können diese Errungenschaft erhalten, inden Sie ein mittelgroßes Spiel Minen 10 mal absolvieren.",
+  "steps": "Starten Sie Minen.\nWählen Sie ein 16x16 Spiel.\nFinden Sie alle versteckten Minen!\nWiederholen Sie es 10 mal.",
+  "tips": "Sie können sich hier ruhig Zeit lassen.\nKein Grund zur Eile. Die Zeit spielt hier keine Rolle. Wählen Sie ihre Schritte also mit bedacht."
+}

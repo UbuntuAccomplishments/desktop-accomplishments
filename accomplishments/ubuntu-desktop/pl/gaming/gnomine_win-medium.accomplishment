@@ -1,0 +1,11 @@
+{
+  "title": "Zaawansowane rozminowywanie",
+  "description": "Wygraj w średniej grze Miny",
+  "collection": "ubuntu-desktop",
+  "category": "Games:Gnomine",
+  "icon": "gnomine.png",
+  "author": "Rafał Cieślak <rafalcieslak256@ubuntu.com>",
+  "summary": "Możesz zdobyć te osiągnięcie jeżeli ukończysz średnią grę Miny",
+  "steps": "Rozpocznij grę Miny.\nWybierz 16x16 (średnie) grę.\nZnajdź wszystkie ukryte miny!",
+  "tips": "Możesz nauczyć się zasad rozgrywki z Miny pomoc.\nJeśli znalezienie min jest dla ciebie trudne, spróbuj ćwiczyć na mniejszym obszarze."
+}

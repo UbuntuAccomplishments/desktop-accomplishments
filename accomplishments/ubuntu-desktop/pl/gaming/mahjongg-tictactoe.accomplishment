@@ -1,0 +1,10 @@
+{
+  "title": "Ukończony poziom Mahjongg - Tic-Tac-Toe",
+  "description": "Ukończyłeś poziom Mahjongg - Tic-Tac-Toe",
+  "collection": "ubuntu-desktop",
+  "category": "Games:Mahjongg",
+  "icon": "mahjongg.png",
+  "author": "s.fox <silver-fox@ubuntu.com>",
+  "summary": "Mahjongg jest wersją klasycznej, wschodniej gry płytek dla jednego gracza, Madżong. Celem jest wyłonienie par podobnych płytek. Aby zdobyć te osiągnięcie musisz usunąć wszystkie płytki z poziomu Tic-Tac-Toe.",
+  "help": "https://live.gnome.org/Mahjongg"
+}

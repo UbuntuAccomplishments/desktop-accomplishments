@@ -1,0 +1,12 @@
+{
+  "title": "Impressive Demining",
+  "description": "Win a Large Gnomine game 5 times",
+  "collection": "ubuntu-desktop",
+  "category": "Games:Gnomine",
+  "depends": "ubuntu-desktop/gnomine_win-large",
+  "icon": "gnomine.png",
+  "summary": "You can achieve this accomplishment by finishing a Large game in Gnomine 5 times.",
+  "steps": "Start Gnomine.\nChoose 30x16 (large) game.\nFind all hidden mines!\nRepeat 5 times.",
+  "tips": "It can take some time to accomplish this one.\nNo need to hurry! Time does not matter, so choose your moves wisely.\nThis accomplishment is for real experts.",
+  "author": "Rafał Cieślak <rafalcieslak256@ubuntu.com>"
+}

@@ -1,0 +1,12 @@
+{
+  "title": "Praktykowanie rozminowywania",
+  "description": "Wygraj małą grę Gnomine 10 razy.",
+  "collection": "ubuntu-desktop",
+  "category": "Games:Gnomine",
+  "icon": "gnomine.png",
+  "depends": "ubuntu-desktop/gnomine_win-small",
+  "author": "Rafał Cieślak <rafalcieslak256@ubuntu.com>",
+  "summary": "Możesz zdobyć te osiągniecie przez ukończenie małej gry Miny 10 razy\nUdowodnij, że jesteś doświadczony saper!",
+  "steps": "Rozpocznij grę Miny.\nWybierz 8x8 (mały) grę.\nZnajdź wszystkie ukryte miny!\nPowtórz 10 razy.",
+  "tips": "Możesz nauczyć się zasad rozgrywki z Miny pomoc.\nTo osiągnięcie nie powinno zabrać Ci dużo czasu. To proste!"
+}

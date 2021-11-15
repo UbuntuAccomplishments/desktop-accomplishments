@@ -1,0 +1,12 @@
+{
+  "title": "Buscador de minas senior",
+  "description": "Ganar Gnomine medio 10 veces",
+  "collection": "ubuntu-desktop",
+  "category": "Games:Gnomine",
+  "icon": "gnomine.png",
+  "depends": "ubuntu-desktop/gnomine_medium_5_times",
+  "author": "Rafał Cieślak <rafalcieslak256@ubuntu.com>",
+  "summary": "Pude conseguir este logro terminando una partida de Gnomine de nivel medio 10 veces.",
+  "steps": "Iniciar Gnomine.\nElegir juego 16x16 (medio).\nEncontrar todas las minas.\nRepetir 10 veces.",
+  "tips": "Puede llevar algún tiempo lograr esto.\nNo hay necesidad de darse prisa. El tiempo no importa, así que elija sabiamente sus movimientos."
+}

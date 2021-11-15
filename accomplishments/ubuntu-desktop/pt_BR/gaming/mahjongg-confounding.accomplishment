@@ -1,0 +1,10 @@
+{
+  "title": "Completed Mahjongg - The Confounding Cross Level",
+  "description": "You have completed Mahjongg - The Confounding Cross Level",
+  "collection": "ubuntu-desktop",
+  "category": "Games:Mahjongg",
+  "icon": "mahjongg.png",
+  "author": "s.fox <silver-fox@ubuntu.com>",
+  "summary": "Mahjongg is a solitaire (one player) version of the classic Eastern tile game, Mahjongg. The objective is to select pairs of similar tiles.  To achieve this accomplishment all you need to do is to clear the grid on the The Confounding Cross level",
+  "help": "https://live.gnome.org/Mahjongg"
+}

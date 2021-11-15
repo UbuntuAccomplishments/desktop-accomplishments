@@ -1,0 +1,12 @@
+{
+  "title": "Perfekte Minenbeseitigung",
+  "description": "Gewinnen Sie 5 mal ein mittelgroßes Spiel Minen",
+  "collection": "ubuntu-desktop",
+  "category": "Games:Gnomine",
+  "icon": "gnomine.png",
+  "depends": "ubuntu-desktop/gnomine_win-medium",
+  "author": "Rafał Cieślak <rafalcieslak256@ubuntu.com>",
+  "summary": "Sie können diese Errungenschaft erhalten, indem Sie ein mittelgroßes Spiel Minen 5 mal absolvieren.",
+  "steps": "Starten Sie Minen.\nWählen Sie ein 16x16 Spiel.\nFinden Sie alle versteckten Minen!\nWiederholen Sie es 5 mal.",
+  "tips": "Es kann etwas dauern bis Sie diese Errungenschaft erhalten.\nSie brauchen sich hier nicht zu beeilen. Die Zeit spielt hier keine Rolle. Wählen sie Ihre Schritte daher mit bedacht."
+}

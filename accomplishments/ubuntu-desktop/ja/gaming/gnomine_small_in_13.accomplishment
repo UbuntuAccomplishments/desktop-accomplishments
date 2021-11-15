@@ -1,0 +1,12 @@
+{
+  "title": "I'm Too Quick to Miss the Mines",
+  "description": "Win a Small Gnomine game under 13 seconds",
+  "collection": "ubuntu-desktop",
+  "category": "Games:Gnomine",
+  "icon": "gnomine.png",
+  "depends": "ubuntu-desktop/gnomine_small_in_20",
+  "author": "Rafał Cieślak <rafalcieslak256@ubuntu.com>",
+  "summary": "To win this trophy, finish a Small Gnomine game under 13 seconds.",
+  "steps": "Start Gnomine.\nChoose 8x8 (small) game.\nFind all hidden mines as fast as possible!\nBe sure to finish under 13 seconds!",
+  "tips": "Practice, practice, practice. If you are not fast enough, be sure to improve your skills by practicing a lot.\nPlay on a window as small as possible, so that you need to move your mouse less.\nWhen it comes to that fast minesweeping, there is no time to think. Make moves immediately, if you thought too long, just start a new game.\nBe patient, and do not get nevrous! With a lot of patience, this accomplishment is not that hard to win."
+}

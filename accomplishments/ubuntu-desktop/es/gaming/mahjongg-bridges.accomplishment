@@ -1,0 +1,10 @@
+{
+  "title": "Mahjongg completado - Nivel de los cuatro puentes",
+  "description": "Ha completado el Mahjongg - Nivel de los cuatro puentes",
+  "collection": "ubuntu-desktop",
+  "category": "Games:Mahjongg",
+  "icon": "mahjongg.png",
+  "author": "s.fox <silver-fox@ubuntu.com>",
+  "summary": "Mahjongg es un solitario versión del clásico juego de fichas oriental, Mahjongg. El objetivo es seleccionar pares de fichas similares. Para alcanzar este logro todo lo que necesita hacer es limpiar la rejilla en el nivel de los cuatro puentes.",
+  "help": "https://live.gnome.org/Mahjongg"
+}

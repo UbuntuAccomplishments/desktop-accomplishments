@@ -1,0 +1,13 @@
+{
+  "title": "Weltschnellster Minensucher",
+  "description": "Absolvieren Sie ein kleines Spiel in weniger als 4 (!) Sekunden",
+  "collection": "ubuntu-desktop",
+  "category": "Games:Gnomine",
+  "icon": "gnomine.png",
+  "depends": "ubuntu-desktop/gnomine_small_in_8",
+  "author": "Rafał Cieślak <rafalcieslak256@ubuntu.com>",
+  "summary": "Um diese Trophäe zu gewinnen, müssen Sie ein kleines Spiel Minen in unter 4 Sekunden absolvieren.\nJa, das ist durchaus machbar aber Sie müssen sehr geübt sein.\nObwohl es viel Glück erfordert sind gute Fähigkeiten von Vorteil.",
+  "steps": "Starten Sie Minen.\nWählen Sie ein 8x8 Spiel.\nFinden Sie alle versteckten Minen so schnell wie möglich!\nAbsolvieren Sie das Spiel in unter 4 Sekunden!",
+  "tips": "Diese Errungenschaft erfordert viel Übung.\nSpielen Sie oft, spielen sie täglich, üben Sie oft!\nSpielen sie in einem Fenster, dass so klein wie möglich ist, damit Sie die Maus weniger bewegen müssen.\nWenn es darum geht, die Minen schnell zu finden bleibt nicht viel Zeit zum überlegen. Machen Sie sofort einen Spielzug, wenn Sie zu lange nachgedacht haben, starten Sie einfach ein neues Spiel.\nViele Felder sind nicht innerhalb dieser kurzen Zeit lösbar. Es könnte hilfreich sein schwierige zufällige Kombinationen zu ignorieren und nur Ihr Bestes auf den Feldern zu geben, die zur Hälfte auf den ersten Klick aufgedeckt wurden.\nSie brauchen SEHR VIEL Glück um diese Errugenschaft zu erreichen.",
+  "pitfalls": "Glauben Sie nicht, dass Sie diese Errungenschaft schnell erreichen. Seien Sie geduldig!"
+}

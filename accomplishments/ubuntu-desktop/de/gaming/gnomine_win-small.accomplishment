@@ -1,0 +1,11 @@
+{
+  "title": "Minensuchanfänger",
+  "description": "Gewinnen Sie ein kleines Spiel Minen",
+  "collection": "ubuntu-desktop",
+  "category": "Games:Gnomine",
+  "icon": "gnomine.png",
+  "author": "Rafał Cieślak <rafalcieslak256@ubuntu.com>",
+  "summary": "Sie können diese Errungenschaft erhalten, indem Sie ein kleines Spiel Minen absolvieren.",
+  "steps": "Starten Sie Minen.\nWählen Sie ein 8x8 Spiel.\nFinden Sie alle versteckten Minen!",
+  "tips": "Sie können mehr über die Spielregeln in der Minen Hilfe finden."
+}

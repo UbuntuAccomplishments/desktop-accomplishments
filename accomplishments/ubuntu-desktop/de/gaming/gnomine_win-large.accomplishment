@@ -1,0 +1,11 @@
+{
+  "title": "Minensuchexperte",
+  "description": "Gewinnen Sie ein großes Spiel Minen",
+  "collection": "ubuntu-desktop",
+  "category": "Games:Gnomine",
+  "icon": "gnomine.png",
+  "author": "Rafał Cieślak <rafalcieslak256@ubuntu.com>",
+  "summary": "Sie können diese Errugenschaft erhalten, indem Sie ein großes Spiel Minen absolvieren.",
+  "steps": "Starten Sie Minen\nWählen Sie eun 30x16 Spiel\nFinden Sie alle versteckten Minen!",
+  "tips": "Sie können mehr über die Spielregeln in der Minen Hilfe finden.\nWenn es zu schwierig für Sie ist die Minen zu finden versuchen Sie auf einem kleinen Spielfeld zu üben.\nDieser Schwierigkeitsgrad ist nahezu unmöglich wenn Sie kein Glück haben. Seien Sie geduldig, früher oder später werden Sie es schaffen."
+}

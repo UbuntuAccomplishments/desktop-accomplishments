@@ -1,0 +1,9 @@
+{
+  "title": "Added Photos",
+  "description": "You have added photos to your computer",
+  "collection": "ubuntu-desktop",
+  "category": "Multimedia",
+  "icon": "default.png",
+  "author": "Charles Profitt <cprofitt@ubuntu.com>",
+  "summary": "Ubuntu has many great applications to help you edit and manage your photos, but the first step is adding photos to your computer. When you add images to your <i>pictures folder</i> you will earn this accomplishment."
+}

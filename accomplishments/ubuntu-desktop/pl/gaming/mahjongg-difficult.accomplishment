@@ -1,0 +1,9 @@
+{
+  "title": "Ukończony Mahjongg na poziomie trudnym",
+  "description": "Ukończ Mahjong na poziomie trudnym",
+  "collection": "ubuntu-desktop",
+  "category": "Games:Mahjongg",
+  "icon": "mahjongg.png",
+  "summary": "Mahjong jest wersją klasycznej, wschodniej gry z płytek dla jednego gracza, Madżong. Celem jest wyłonienie par podobnych płytek. Aby zdobyć te osiągnięcie musisz usunąć wszystkie płytki z trudnego poziomu trudności.",
+  "help": "https://live.gnome.org/Mahjongg"
+}

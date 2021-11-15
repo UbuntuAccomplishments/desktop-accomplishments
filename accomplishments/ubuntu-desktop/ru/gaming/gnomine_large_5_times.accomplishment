@@ -1,0 +1,12 @@
+{
+  "title": "Потрясающее разминирование",
+  "description": "Разберите большое поле в Gnomine 5 раз",
+  "collection": "ubuntu-desktop",
+  "category": "Games:Gnomine",
+  "icon": "gnomine.png",
+  "depends": "ubuntu-desktop/gnomine_win-large",
+  "author": "Rafał Cieślak <rafalcieslak256@ubuntu.com>",
+  "summary": "Вы можете получить это достижение, разобрав большое поле в Gnomine 5 раз.",
+  "steps": "Запустите Gnomine.\nВыберите игру 30x16 (большую).\nНайдите все скрытые мины!\nПовторите 5 раз.",
+  "tips": "Может понадобиться некоторое время, чтобы получить это достижение.\nНе торопитесь! Время не имеет значения, так что выбирайте ходы с умом.\nЭто достижение для настоящих экспертов."
+}

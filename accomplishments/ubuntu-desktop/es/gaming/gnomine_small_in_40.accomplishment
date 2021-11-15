@@ -1,0 +1,12 @@
+{
+  "title": "Desminador con tiempo",
+  "description": "Terminar una partida de Gnomine en 40 segundos",
+  "collection": "ubuntu-desktop",
+  "category": "Games:Gnomine",
+  "icon": "gnomine.png",
+  "depends": "ubuntu-desktop/gnomine_win-small",
+  "author": "Rafał Cieślak <rafalcieslak256@ubuntu.com>",
+  "summary": "Para conseguir este trofeo, termine una partida de Gnomine pequeño en menos de 40 segundos.",
+  "steps": "Iniciar Gnomine.\nElegir juego de 8X8 (pequeño).\nEncontrar todas las minas tan rápido como sea posible.\nTerminar en 40 segundos.",
+  "tips": "Práctica, práctica, práctica. Si no es lo suficientemente rápido, asegúrese de mejorar sus habilidades practicando mucho.\nEste es un logro sencillo. A menos que sea un absoluto novato, lo gestionará fácilmente."
+}

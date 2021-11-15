@@ -1,0 +1,10 @@
+{
+  "title": "Mahjongg Level Vier Brücken absolviert",
+  "description": "Sie haben das Mahjongg Level Vier Brücken absolviert",
+  "collection": "ubuntu-desktop",
+  "category": "Games:Mahjongg",
+  "icon": "mahjongg.png",
+  "author": "s.fox <silver-fox@ubuntu.com>",
+  "summary": "Mahjongg ist eine Solitär (Einspieler) Version des klassischen östlichen Legespiels Mahjongg. Ziel ist es, gleiche Spielsteine ​​zu finden. Alles was Sie tun müssen, um diese Errungenschaft zu erhalten ist sämtliche Steinpaare im Vier Brücken Level zu entfernen.",
+  "help": "https://live.gnome.org/Mahjongg"
+}

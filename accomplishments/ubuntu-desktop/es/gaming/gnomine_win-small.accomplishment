@@ -1,0 +1,11 @@
+{
+  "title": "Limpiaminas principiante",
+  "description": "Ganar en un juego de Gnomine pequeño",
+  "collection": "ubuntu-desktop",
+  "category": "Games:Gnomine",
+  "icon": "gnomine.png",
+  "author": "Rafał Cieślak <rafalcieslak256@ubuntu.com>",
+  "summary": "Puede conseguir este logro terminando una partida de Gnomine pequeño.",
+  "steps": "Iniciar Gnomine.\nElegir juego de 8X8 (pequeño).\nEncontrar todas las minas.",
+  "tips": "Puede aprender las normas del juego con la ayuda de Gnomine"
+}

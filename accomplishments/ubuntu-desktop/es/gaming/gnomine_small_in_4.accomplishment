@@ -1,0 +1,13 @@
+{
+  "title": "El desminador más rápido del mundo",
+  "description": "Terminar una partida de Gnomine pequeño en menos de 4 segundos",
+  "collection": "ubuntu-desktop",
+  "category": "Games:Gnomine",
+  "icon": "gnomine.png",
+  "depends": "ubuntu-desktop/gnomine_small_in_8",
+  "author": "Rafał Cieślak <rafalcieslak256@ubuntu.com>",
+  "summary": "Para conseguir este trofeo, termine una partida de Gnomine pequeño en menos de 4 segundos.\nSí,esto es posible, pero necesitará mucha habilidad. También necesitará suerte.",
+  "steps": "Iniciar Gnomine.\nElegir juego de 8X8 (pequeño).\nEncontrar todas las minas tan rápido como sea posible.\nTerminar en 4 segundos.",
+  "tips": "This accomplishment requires lots of practice to achieve.\nPlay a lot, play everyday, train yourself!\nPlay on a window as small as possible, so that you need to move your mouse less.\nWhen it comes to that fast minesweeping, there is no time to think. Make moves immediately, if you thought too long, just start a new game.\nA lot of fields are not solvable within that short time. It may be helpful to ignore difficult random combinations, and do your best only on those fields, where 1/2 of the grid is uncovered in the first click.\nYou need LOTS of luck to achieve this one.",
+  "pitfalls": "No piense que puede conseguir este trofeo rápidamente. ¡Paciencia!"
+}

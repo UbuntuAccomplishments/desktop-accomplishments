@@ -1,0 +1,9 @@
+{
+  "title": "Shared With Accomplishments Service",
+  "description": "Vous avez ajouté de la musique sur votre ordinateur",
+  "category": "Accessories:Accomplishments",
+  "icon": "default.png",
+  "author": "s.fox <silver-fox@ubuntu.com>",
+  "summary": "Many of the different opportunities that are available in <i>Ubuntu Accomplishments</i> require validation through the Accomplishments Service.  The Accomplishments Service uses Ubuntu One to validate and store trophies you've earned.",
+  "steps": "Authorize your Ubuntu One account in the Accomplishments Viewer."
+}

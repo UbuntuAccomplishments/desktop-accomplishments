@@ -1,0 +1,12 @@
+{
+  "title": "Blitzkrieg",
+  "description": "Gana un juego Gnomine en modo pequeño en menos de 8 segundos.",
+  "collection": "ubuntu-desktop",
+  "category": "Games:Gnomine",
+  "icon": "gnomine.png",
+  "depends": "ubuntu-desktop/gnomine_small_in_13",
+  "author": "Rafał Cieślak <rafalcieslak256@ubuntu.com>",
+  "summary": "Para ganar este trofeo, debes finalizar un juego de Gnomine en modo pequeño en menos de 8 segundos",
+  "steps": "Iniciar Gnomine.\nElegir juego 8x8 (pequeño).\n¡Encuentra todas las minas escondidas tan rápido como sea posible!\n¡Asegúrate de terminar en menos de 8 segundos!",
+  "tips": "Este logro requiere mucha práctica para alcanzarlo.\nJuega en una ventana tan pequeña como sea posible, así necesitas mover menos el puntero del ratón.\nCuando se trata del rápido rastreo de minas, no hay tiempo para pensar. Haz movimientos de inmediato, si haz pensado por demasiado tiempo, empieza un nuevo juego.\nMuchos campos no tienen solución en menos de 8 segundos. Puede ser útil ignorar combinaciones aleatorias complicadas y hacer lo mejor que puedas sólo en los campos donde la mitad de la red se descubra con el primer click."
+}

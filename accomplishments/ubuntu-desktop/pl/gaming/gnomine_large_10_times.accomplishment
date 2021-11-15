@@ -1,0 +1,12 @@
+{
+  "title": "Weteran Saper",
+  "description": "Wygraj w dużym polu Miny 10 razy",
+  "collection": "ubuntu-desktop",
+  "category": "Games:Gnomine",
+  "icon": "gnomine.png",
+  "depends": "ubuntu-desktop/gnomine_large_5_times",
+  "author": "Rafał Cieślak <rafalcieslak256@ubuntu.com>",
+  "summary": "Możesz zdobyć te osiągniecie jeżeli ukończysz duże pole Miny 10 razy",
+  "steps": "Rozpocznij grę Miny.\nWybierz 30x16 (duży) grę.\nZnajdź wszystkie ukryte miny!\nPowtórz 10 razy.",
+  "tips": "To może zająć trochę czasu, aby zdobyć te osiągnięcie.\nNie trzeba się spieszyć! Czas nie ma znaczenia, więc wybieraj swoje ruchy mądrze.\nTo osiągnięcie jest dla prawdziwych ekspertów."
+}

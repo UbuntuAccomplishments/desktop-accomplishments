@@ -1,0 +1,12 @@
+{
+  "title": "Blitzkrieg",
+  "description": "Gewinnen Sie ein kleines Spiel Minen in weniger als 8 Sekunden",
+  "collection": "ubuntu-desktop",
+  "category": "Games:Gnomine",
+  "icon": "gnomine.png",
+  "depends": "ubuntu-desktop/gnomine_small_in_13",
+  "author": "Rafał Cieślak <rafalcieslak256@ubuntu.com>",
+  "summary": "Absolvieren Sie ein kleines Spiel Minen in unter 8 Sekunden um diese Errungenschaft zu erhalten.",
+  "steps": "Starten Sie Minen.\nWählen Sie ein 8x8 (kleines) Spiel.\nFinden Sie alle vertseckten Minen so schnell wie möglich!\nAbsolvieren Sie das Spiel in unter 8 Sekunden!",
+  "tips": "Diese Errungenschaft erfordert viel Übung.\nSpielen sie in einem Fenster, dass so klein wie möglich ist, damit Sie die Maus weniger bewegen müssen.\nWenn es darum geht, die Minen schnell zu finden bleibt nicht viel Zeit zum überlegen. Machen Sie sofort einen Spielzug, wenn Sie zu lange nachgedacht haben, starten Sie einfach ein neues Spiel.\nViele Felder sind nicht innerhalb 8 Sekunden lösbar. Es könnte hilfreich sein schwierige zufällige Kombinationen zu ignorieren und nur Ihr Bestes auf den Feldern zu geben, die zur Hälfte auf den ersten Klick aufgedeckt wurden."
+}

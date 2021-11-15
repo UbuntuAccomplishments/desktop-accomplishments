@@ -1,0 +1,12 @@
+{
+  "title": "Minen schnell finden",
+  "description": "Gewinnen Sie ein kleines Spiel Minen in unter 20 Sekunden",
+  "collection": "ubuntu-desktop",
+  "category": "Games:Gnomine",
+  "icon": "gnomine.png",
+  "depends": "ubuntu-desktop/gnomine_small_in_40",
+  "author": "Rafał Cieślak <rafalcieslak256@ubuntu.com>",
+  "summary": "Um die Trophäe zu erhalten absolvieren Sie ein kleines Spiel Minen in unter 20 Sekunden",
+  "steps": "Starten Sie Minen.\nWählen sie ein 8x8 Spiel.\nFinden Sie alle versteckten Minen so schnell wie möglich!\nAbsolvieren Sie das Spiel in unter 20 Sekunden!",
+  "tips": "Übung, Übung, Übung. Wenn Sie nicht schnell genug sind, verbessern Sie Ihre Fähigkeiten indem Sie viel üben.\nSpielen Sie in einem Fenster, dass so klein wie möglich ist, damit sie die Maus weniger bewegen müssen."
+}

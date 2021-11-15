@@ -1,0 +1,13 @@
+{
+  "title": "Used Rhythmbox",
+  "description": "You have used Rhythmbox.",
+  "collection": "ubuntu-desktop",
+  "category": "Multimedia",
+  "icon": "default.png",
+  "author": "Charles Profitt <cprofitt@ubuntu.com>",
+  "summary": "Rhythmbox is a music player in Ubuntu. You can use it to play music from local or shared music stores, or on-line stream radios.\nThis accomplishment is awarded when you have <b>added music</b> to your Rhythmbox library",
+  "steps": "Click the <i>Dash Home</i>\nEnter <i>Rhythmbox</i>\nYou will be presented with the Rhythmbox application\nClick the <i>Rhythmbox</i> icon\nRight click the 'music' entry under library and choose 'import file...' for a single song or 'import folder...' for a folder of music\nNavigate to the folder or song desired",
+  "tips": "You can even buy music through Rhythmbox",
+  "pitfalls": "Using a network share could result in Rhythmbox reporting that you have missing files if you have not mounted the share prior to launching Rhythmbox.",
+  "help": "Click the <i>Help</i> menu."
+}

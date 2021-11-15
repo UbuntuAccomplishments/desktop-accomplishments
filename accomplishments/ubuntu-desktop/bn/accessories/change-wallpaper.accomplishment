@@ -1,0 +1,11 @@
+{
+  "title": "ওয়ালপেপার পরিবর্তন করুন .",
+  "description": "আপনি আপনার ওয়ালপেপার পরিবর্তন করেছেন .",
+  "collection": "ubuntu-desktop",
+  "category": "Accessories:System Settings",
+  "icon": "default.png",
+  "author": "s.fox <silver-fox@ubuntu.com>",
+  "summary": "এই নিষ্পাদন পুরস্কৃত করা হয় যখন আপনি উবুন্টু ব্যবহার করে ওয়ালপেপার পরিবর্তন করেন.",
+  "steps": "<i>Dash Home</ i> এ ক্লিক করুন <i>System Settings</ i> এ প্রবেশ করুন আপনাকে System Settings আবেদন পত্র উপস্থাপন করা হবে <i>System Settings</ i> আইকনে ক্লিক করুন <i>Appearance</ i> আইকনে ক্লিক করুন + বাটনে ক্লিক করুন <i>ন্যাভিগেট করুন</i> এবং নতুন ওয়ালপেপার <i>নির্বাচন করুন</i>",
+  "tips": "আপনি অবস্থিতিকরণ এবং পটভূমির রঙ সম্পাদন করতে পারেন ."
+}

@@ -1,0 +1,10 @@
+{
+  "title": "Created a LibreOffice Document",
+  "description": "You have created a LibreOffice document",
+  "category": "Productivity",
+  "icon": "default.png",
+  "author": "Joel Pickett <jpickett@ubuntu.com>",
+  "summary": "LibreOffice is a powerful suite that provides six feature-rich office applications: Writer (word-processor), Calc (spreadsheet), Impress (presentation software), Draw (graphics editor), Math (math formulae) and Base (database management). Try each of them out to see what's available and how it can help you.",
+  "steps": "Open either LibreOffice, Writer, Calc or Impress from the Launcher\nCreate a document/spreadsheet/presentation and save it in your Documents folder",
+  "help": "https://wiki.ubuntu.com/LibreOffice"
+}

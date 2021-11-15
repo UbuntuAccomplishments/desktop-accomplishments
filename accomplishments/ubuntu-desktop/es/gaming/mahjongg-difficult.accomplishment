@@ -1,0 +1,9 @@
+{
+  "title": "Mahjongg difícil completado",
+  "description": "Ha completado el Mahjongg con nivel Difícil",
+  "collection": "ubuntu-desktop",
+  "category": "Games:Mahjongg",
+  "icon": "mahjongg.png",
+  "summary": "Mahjongg es un solitario versión del clásico juego de fichas oriental, Mahjongg. El objetivo es seleccionar pares de fichas similares. Para alcanzar este logro todo lo que necesita hacer es limpiar la rejilla en el nivel de Difícil",
+  "help": "https://live.gnome.org/Mahjongg"
+}

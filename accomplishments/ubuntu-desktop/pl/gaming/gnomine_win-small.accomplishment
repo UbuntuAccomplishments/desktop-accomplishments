@@ -1,0 +1,11 @@
+{
+  "title": "Początkujący Saper",
+  "description": "Wygraj małą grę Miny",
+  "collection": "ubuntu-desktop",
+  "category": "Games:Gnomine",
+  "icon": "gnomine.png",
+  "author": "Rafał Cieślak <rafalcieslak256@ubuntu.com>",
+  "summary": "Możesz zdobyć te osiągniecie jeśli ukończysz małą grę Miny",
+  "steps": "Rozpocznij grę Miny.\nWybierz 8x8 (mały) grę.\nZnajdź wszystkie ukryte miny!",
+  "tips": "Możesz nauczyć się zasad rozgrywki z Miny pomoc."
+}

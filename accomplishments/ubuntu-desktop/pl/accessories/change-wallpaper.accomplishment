@@ -1,0 +1,11 @@
+{
+  "title": "Zmiana Tapety",
+  "description": "Zmieniłeś swoją tapetę",
+  "collection": "ubuntu-desktop",
+  "category": "Accessories:System Settings",
+  "icon": "default.png",
+  "author": "s.fox <silver-fox@ubuntu.com>",
+  "summary": "To osiągnięcie jest przyznawany po zmianie tapety używanej przez Ubuntu",
+  "steps": "Click the <i>Dash Home</i>\nEnter <i>System Settings</i>\nYou will be presented with the System Settings application\nClick the <i>System Settings</i> icon\nClick <i>Appearance</i> icon\nClick + button\n<i>Navigate to</i> and <i>select</i> new wallpaper",
+  "tips": "Możesz edytować pozycje i kolor tła"
+}

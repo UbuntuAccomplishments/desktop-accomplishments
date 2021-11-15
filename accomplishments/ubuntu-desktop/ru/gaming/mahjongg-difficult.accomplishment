@@ -1,0 +1,9 @@
+{
+  "title": "Пройден Mahjongg на сложном уровне",
+  "description": "Вы прошли Mahjongg на сложном уровне",
+  "collection": "ubuntu-desktop",
+  "category": "Games:Mahjongg",
+  "icon": "mahjongg.png",
+  "summary": "Mahjongg — это версия классической восточной игры маджонг для одного игрока. Цель игры — выбрать все пары одинаковых костей. Чтобы получить это достижение, вам нужно очистить поле на сложном уровне.",
+  "help": "https://live.gnome.org/Mahjongg"
+}

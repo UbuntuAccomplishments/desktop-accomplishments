@@ -1,0 +1,12 @@
+{
+  "title": "Practicing demining",
+  "description": "Win a Small Gnomine game 10 times",
+  "collection": "ubuntu-desktop",
+  "category": "Games:Gnomine",
+  "depends": "ubuntu-desktop/gnomine_win-small",
+  "icon": "gnomine.png",
+  "summary": "You can achieve this accomplishment by finishing a Small game in Gnomine 10 times.\nProve you are a skilled minesweeper!",
+  "steps": "Start Gnomine.\nChoose 8x8 (small) game.\nFind all hidden mines!\nRepeat 10 times.",
+  "tips": "You can learn the gameplay rules from Gnomine help.\nThis accomplishment shouldn't take you a lot of time. It's easy!",
+  "author": "Rafał Cieślak <rafalcieslak256@ubuntu.com>"
+}

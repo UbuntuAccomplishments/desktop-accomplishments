@@ -1,0 +1,10 @@
+{
+  "title": "Shared With Accomplishments Service",
+  "description": "Sie haben Ihrem Computer Musik hinzugefügt.",
+  "category": "Accessories:Accomplishments",
+  "icon": "default.png",
+  "author": "s.fox <silver-fox@ubuntu.com>",
+  "summary": "Viele der verschiedenen Gelegenheiten die in <i>Ubuntu Errungenschaften</i> verfügbar sind erfordern",
+  "steps": "Authorize your Ubuntu One account in the Accomplishments Viewer.",
+  "help": "https://help.ubuntu.com/community/Rhythmbox"
+}

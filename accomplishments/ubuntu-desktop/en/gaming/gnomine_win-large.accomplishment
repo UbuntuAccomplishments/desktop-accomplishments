@@ -1,0 +1,11 @@
+{
+  "title": "Expert Minesweeper",
+  "description": "Win a Large Gnomine game",
+  "collection": "ubuntu-desktop",
+  "category": "Games:Gnomine",
+  "icon": "gnomine.png",
+  "summary": "You can achieve this accomplishment by finishing a Large game in Gnomine.",
+  "steps": "Start Gnomine.\nChoose 30x16 (large) game.\nFind all hidden mines!",
+  "tips": "You can learn the gameplay rules from Gnomine help.\nIf finding mines is to hard for you, try practising on a smaller field.\nThis dificulty level is usually impossible to complete if you are out of luck. Be patient, sooner or later, you will manage!",
+  "author": "Rafał Cieślak <rafalcieslak256@ubuntu.com>"
+}

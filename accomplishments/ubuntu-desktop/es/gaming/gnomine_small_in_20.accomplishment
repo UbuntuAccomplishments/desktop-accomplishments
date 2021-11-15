@@ -1,0 +1,12 @@
+{
+  "title": "Minas encontradas rápidamente",
+  "description": "Ganar un juego de Gnomine en 20 segundos",
+  "collection": "ubuntu-desktop",
+  "category": "Games:Gnomine",
+  "icon": "gnomine.png",
+  "depends": "ubuntu-desktop/gnomine_small_in_40",
+  "author": "Rafał Cieślak <rafalcieslak256@ubuntu.com>",
+  "summary": "Puede conseguir este trofeo, terminando una partida de Gnomine pequeña en menos de 20 segundos.",
+  "steps": "Iniciar Gnomine.\nElegir 8x8 (pequeño).\nEncontrar todas las minas tan rápido como sea posible.\nTerminar en 20 segundos",
+  "tips": "Practica, practica, practica. Si no eres lo suficientemente veloz, asegurate de mejorar tus habilidades practicando mucho. \nJuega en una ventana pequeña, lo mas pequeña que se pueda, así tendrás que mover menos el mouse"
+}

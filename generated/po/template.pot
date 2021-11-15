@@ -1,0 +1,2758 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-11-15 15:40+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. ACCOMPLISHMENT: Gwibber - Added Twitter ('t' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Gwibber - Added Twitter
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. A short description of the accomplishment.
+#. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
+#: ../accomplishments/ubuntu-desktop/gwibber-twitter.c:11
+msgid "ubuntu-desktop/gwibber-twitter_title"
+msgstr ""
+
+#. ACCOMPLISHMENT: Gwibber - Added Twitter ('d' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. You have added your twitter account to Gwibber
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a descriptive single-line summary of the accomplishment.
+#: ../accomplishments/ubuntu-desktop/gwibber-twitter.c:20
+msgid "ubuntu-desktop/gwibber-twitter_description"
+msgstr ""
+
+#. ACCOMPLISHMENT: Gwibber - Added Twitter ('s' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Gwibber is the social media client built into Ubuntu Desktop. It is capable of viewing and posting status updates on popular microblogging and social sites such as Twitter, Facebook and Identi.ca
+#. This accomplishment is awarded when you have authorised your <b>twitter</b> account with Gwibber
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
+#. NOTE: Break this into paragraphs by putting each paragraph on a new line.
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/gwibber-twitter.c:32
+msgid "ubuntu-desktop/gwibber-twitter_summary"
+msgstr ""
+
+#. ACCOMPLISHMENT: Gwibber - Added Twitter ('s' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Click the <i>Dash Home</i>
+#. Enter <i>Gwibber</i>
+#. You will be presented with the Gwibber application
+#. Click the <i>Gwibber</i> icon
+#. In the menu navigate to <b>Edit</b> <b>Accounts</b>
+#. Click the + button
+#. Select twitter and then click the Add button
+#. Click Authorise
+#. Enter your twitter details and click 'Authorize App'
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a series of step-by-step instructions for how to accomplish this trophy.
+#. NOTE: Put each step on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/gwibber-twitter.c:51
+msgid "ubuntu-desktop/gwibber-twitter_steps"
+msgstr ""
+
+#. ACCOMPLISHMENT: Gwibber - Added Twitter ('t' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. You can add several twitter accounts to gwibber
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add tips and best practise for accomplishing this trophy.
+#. NOTE: Put each tip on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/gwibber-twitter.c:62
+msgid "ubuntu-desktop/gwibber-twitter_tips"
+msgstr ""
+
+#. ACCOMPLISHMENT: Gwibber - Added Twitter ('h' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. https://wiki.ubuntu.com/Gwibber
+#. http://live.gnome.org/Gwibber
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add related help resources (e.g. IRC channel names).
+#. NOTE: Put each help resource on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/gwibber-twitter.c:74
+msgid "ubuntu-desktop/gwibber-twitter_help"
+msgstr ""
+
+#. ACCOMPLISHMENT: Gwibber - Added Identi.ca ('t' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Gwibber - Added Identi.ca
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. A short description of the accomplishment.
+#. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
+#: ../accomplishments/ubuntu-desktop/gwibber-identica.c:11
+msgid "ubuntu-desktop/gwibber-identica_title"
+msgstr ""
+
+#. ACCOMPLISHMENT: Gwibber - Added Identi.ca ('d' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. You have added your identi.ca account to Gwibber
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a descriptive single-line summary of the accomplishment.
+#: ../accomplishments/ubuntu-desktop/gwibber-identica.c:20
+msgid "ubuntu-desktop/gwibber-identica_description"
+msgstr ""
+
+#. ACCOMPLISHMENT: Gwibber - Added Identi.ca ('s' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Gwibber is the social media client built into Ubuntu Desktop. It is capable of viewing and posting status updates on popular microblogging and social sites such as Twitter, Facebook and Identi.ca
+#. This accomplishment is awarded when you have authorised your <b>identi.ca</b> account with Gwibber
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
+#. NOTE: Break this into paragraphs by putting each paragraph on a new line.
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/gwibber-identica.c:32
+msgid "ubuntu-desktop/gwibber-identica_summary"
+msgstr ""
+
+#. ACCOMPLISHMENT: Gwibber - Added Identi.ca ('s' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Click the <i>Dash Home</i>
+#. Enter <i>Gwibber</i>
+#. You will be presented with the Gwibber application
+#. Click the <i>Gwibber</i> icon
+#. In the menu navigate to <b>Edit</b> <b>Accounts</b>
+#. Click the + button
+#. Select ident.ca and then click the Add button
+#. Click Authorise
+#. Enter your identi.ca details and click 'Allow'
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a series of step-by-step instructions for how to accomplish this trophy.
+#. NOTE: Put each step on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/gwibber-identica.c:51
+msgid "ubuntu-desktop/gwibber-identica_steps"
+msgstr ""
+
+#. ACCOMPLISHMENT: Gwibber - Added Identi.ca ('t' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. You can add several indenti.ca accounts to gwibber
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add tips and best practise for accomplishing this trophy.
+#. NOTE: Put each tip on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/gwibber-identica.c:62
+msgid "ubuntu-desktop/gwibber-identica_tips"
+msgstr ""
+
+#. ACCOMPLISHMENT: Gwibber - Added Identi.ca ('h' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. https://wiki.ubuntu.com/Gwibber
+#. http://live.gnome.org/Gwibber
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add related help resources (e.g. IRC channel names).
+#. NOTE: Put each help resource on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/gwibber-identica.c:74
+msgid "ubuntu-desktop/gwibber-identica_help"
+msgstr ""
+
+#. ACCOMPLISHMENT: Gwibber - Added Facebook ('t' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Gwibber - Added Facebook
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. A short description of the accomplishment.
+#. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
+#: ../accomplishments/ubuntu-desktop/gwibber-facebook.c:11
+msgid "ubuntu-desktop/gwibber-facebook_title"
+msgstr ""
+
+#. ACCOMPLISHMENT: Gwibber - Added Facebook ('d' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. You have added your Facebook account to Gwibber
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a descriptive single-line summary of the accomplishment.
+#: ../accomplishments/ubuntu-desktop/gwibber-facebook.c:20
+msgid "ubuntu-desktop/gwibber-facebook_description"
+msgstr ""
+
+#. ACCOMPLISHMENT: Gwibber - Added Facebook ('s' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Gwibber is the social media client built into Ubuntu Desktop. It is capable of viewing and posting status updates on popular microblogging and social sites such as Twitter, Facebook and Identi.ca
+#. This accomplishment is awarded when you have authorised your <b>Facebook</b> account with Gwibber
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
+#. NOTE: Break this into paragraphs by putting each paragraph on a new line.
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/gwibber-facebook.c:32
+msgid "ubuntu-desktop/gwibber-facebook_summary"
+msgstr ""
+
+#. ACCOMPLISHMENT: Gwibber - Added Facebook ('s' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Click the <i>Dash Home</i>
+#. Enter <i>Gwibber</i>
+#. You will be presented with the Gwibber application
+#. Click the <i>Gwibber</i> icon
+#. In the menu navigate to <b>Edit</b> <b>Accounts</b>
+#. Click the + button
+#. Select Facebook and then click the Add button
+#. Click Authorise
+#. Enter your Facebook details and click 'Log In'
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a series of step-by-step instructions for how to accomplish this trophy.
+#. NOTE: Put each step on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/gwibber-facebook.c:51
+msgid "ubuntu-desktop/gwibber-facebook_steps"
+msgstr ""
+
+#. ACCOMPLISHMENT: Gwibber - Added Facebook ('t' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. You can add several Facebook accounts to gwibber
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add tips and best practise for accomplishing this trophy.
+#. NOTE: Put each tip on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/gwibber-facebook.c:62
+msgid "ubuntu-desktop/gwibber-facebook_tips"
+msgstr ""
+
+#. ACCOMPLISHMENT: Gwibber - Added Facebook ('h' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. https://wiki.ubuntu.com/Gwibber
+#. http://live.gnome.org/Gwibber
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add related help resources (e.g. IRC channel names).
+#. NOTE: Put each help resource on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/gwibber-facebook.c:74
+msgid "ubuntu-desktop/gwibber-facebook_help"
+msgstr ""
+
+#. ACCOMPLISHMENT: Installed Ubuntu on ARM ('t' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Installed Ubuntu on ARM
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. A short description of the accomplishment.
+#. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
+#: ../accomplishments/ubuntu-desktop/installed-on-arm.c:11
+msgid "ubuntu-desktop/installed-on-arm_title"
+msgstr ""
+
+#. ACCOMPLISHMENT: Installed Ubuntu on ARM ('d' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. You have installed Ubuntu on a system with an ARM processor
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a descriptive single-line summary of the accomplishment.
+#: ../accomplishments/ubuntu-desktop/installed-on-arm.c:20
+msgid "ubuntu-desktop/installed-on-arm_description"
+msgstr ""
+
+#. ACCOMPLISHMENT: Installed Ubuntu on ARM ('s' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Ubuntu supports several different CPU architectures. ARM processors are found inside many mobile devices where low-power usage is a key feature, but ARM processors are also beginning to be used in servers as well. Ubuntu is now supported on many of the implentations of ARM. When you install Ubuntu on your ARM based device, and then file bugs or fix bugs, you can help improve Ubuntu on ARM.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
+#. NOTE: Break this into paragraphs by putting each paragraph on a new line.
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/installed-on-arm.c:31
+msgid "ubuntu-desktop/installed-on-arm_summary"
+msgstr ""
+
+#. ACCOMPLISHMENT: Installed Ubuntu on ARM ('s' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Review the <a href="https://wiki.ubuntu.com/ARM">Ubuntu ARM wikipage</a> to see what platforms and releases are supported.
+#. Download an image.
+#. Install Ubuntu on a system that has an ARM processor in it.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a series of step-by-step instructions for how to accomplish this trophy.
+#. NOTE: Put each step on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/installed-on-arm.c:44
+msgid "ubuntu-desktop/installed-on-arm_steps"
+msgstr ""
+
+#. ACCOMPLISHMENT: Installed Ubuntu on ARM ('t' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Join #ubuntu-arm to participate in the Ubuntu on ARM community.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add tips and best practise for accomplishing this trophy.
+#. NOTE: Put each tip on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/installed-on-arm.c:55
+msgid "ubuntu-desktop/installed-on-arm_tips"
+msgstr ""
+
+#. ACCOMPLISHMENT: Installed Ubuntu on ARM ('p' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Ubuntu is not supported on every ARM platform or device, check the Ububtu ARM wikipage or ask on #ubuntu-arm if you are not sure what is supported.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add things the user should not do when working to accomplish this trophy.
+#. NOTE: Put each pitfall on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/installed-on-arm.c:66
+msgid "ubuntu-desktop/installed-on-arm_pitfalls"
+msgstr ""
+
+#. ACCOMPLISHMENT: Installed Ubuntu on ARM ('l' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. https://wiki.ubuntu.com/ARM
+#. http://www.ubuntu.com/download/desktop/alternative-downloads
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add related web addresses (don't include a HTML link).
+#. NOTE: Put each URL on a new line
+#: ../accomplishments/ubuntu-desktop/installed-on-arm.c:77
+msgid "ubuntu-desktop/installed-on-arm_links"
+msgstr ""
+
+#. ACCOMPLISHMENT: Installed Ubuntu on ARM ('h' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. #ubuntu-arm on Freenode
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add related help resources (e.g. IRC channel names).
+#. NOTE: Put each help resource on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/installed-on-arm.c:88
+msgid "ubuntu-desktop/installed-on-arm_help"
+msgstr ""
+
+#. ACCOMPLISHMENT: Installed Ubuntu on a Nexus7 ('t' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Installed Ubuntu on a Nexus7
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. A short description of the accomplishment.
+#. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
+#: ../accomplishments/ubuntu-desktop/installed-on-nexus7.c:11
+msgid "ubuntu-desktop/installed-on-nexus7_title"
+msgstr ""
+
+#. ACCOMPLISHMENT: Installed Ubuntu on a Nexus7 ('d' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. You have installed Ubuntu on a Nexus7
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a descriptive single-line summary of the accomplishment.
+#: ../accomplishments/ubuntu-desktop/installed-on-nexus7.c:20
+msgid "ubuntu-desktop/installed-on-nexus7_description"
+msgstr ""
+
+#. ACCOMPLISHMENT: Installed Ubuntu on a Nexus7 ('s' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Ubuntu Core is now installable on the Nexus7 tablet. The goal of this image is to get Ubuntu core working great on an inexpensive and ubiquitous tablet device. The focus is to fix things in Ubuntu Core that will make Ubuntu run great on any device. By improving things like CPU/memory usage, touch and gestures, and fixing bugs, we can ensure that Ubuntu runs leaner, faster, and with a better interface on any tablet, desktop, or laptop. The Ubuntu Core on Nexus7 could use your help at any level: hacking, testing, benchmarking, bug triage, developing, fixing bugs, improving performance, etc.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
+#. NOTE: Break this into paragraphs by putting each paragraph on a new line.
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/installed-on-nexus7.c:31
+msgid "ubuntu-desktop/installed-on-nexus7_summary"
+msgstr ""
+
+#. ACCOMPLISHMENT: Installed Ubuntu on a Nexus7 ('s' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Purchase a Nexus7, the 8G, 16G, and 32G tablets are all supported.
+#. Read through some of the questions <a href="http://askubuntu.com/questions/tagged/mobile">tagged as Mobile on AskUbuntu</a> as we've migrated the FAQ to there.
+#. Follow the <a href="https://wiki.ubuntu.com/Nexus7/Installation">installation directions</a> in the Ubuntu wiki.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a series of step-by-step instructions for how to accomplish this trophy.
+#. NOTE: Put each step on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/installed-on-nexus7.c:44
+msgid "ubuntu-desktop/installed-on-nexus7_steps"
+msgstr ""
+
+#. ACCOMPLISHMENT: Installed Ubuntu on a Nexus7 ('t' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Join #ubuntu-arm to ask questions or discuss Ubuntu Core on Nexus7
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add tips and best practise for accomplishing this trophy.
+#. NOTE: Put each tip on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/installed-on-nexus7.c:55
+msgid "ubuntu-desktop/installed-on-nexus7_tips"
+msgstr ""
+
+#. ACCOMPLISHMENT: Installed Ubuntu on a Nexus7 ('p' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Installing Ubuntu on your Nexus7 will wipe all data from the device, although you can re-install Android quite easily, you need to back-up any pictures, emails, etc, that you want to save before installing Ubuntu.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add things the user should not do when working to accomplish this trophy.
+#. NOTE: Put each pitfall on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/installed-on-nexus7.c:66
+msgid "ubuntu-desktop/installed-on-nexus7_pitfalls"
+msgstr ""
+
+#. ACCOMPLISHMENT: Installed Ubuntu on a Nexus7 ('l' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. https://wiki.ubuntu.com/Nexus7
+#. http://askubuntu.com/questions/ask?tags=mobile
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add related web addresses (don't include a HTML link).
+#. NOTE: Put each URL on a new line
+#: ../accomplishments/ubuntu-desktop/installed-on-nexus7.c:77
+msgid "ubuntu-desktop/installed-on-nexus7_links"
+msgstr ""
+
+#. ACCOMPLISHMENT: Installed Ubuntu on a Nexus7 ('h' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. #ubuntu-arm on Freenode
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add related help resources (e.g. IRC channel names).
+#. NOTE: Put each help resource on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/installed-on-nexus7.c:88
+msgid "ubuntu-desktop/installed-on-nexus7_help"
+msgstr ""
+
+#. ACCOMPLISHMENT: Upgraded Ubuntu ('t' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Upgraded Ubuntu
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. A short description of the accomplishment.
+#. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
+#: ../accomplishments/ubuntu-desktop/upgraded-ubuntu.c:11
+msgid "ubuntu-desktop/upgraded-ubuntu_title"
+msgstr ""
+
+#. ACCOMPLISHMENT: Upgraded Ubuntu ('d' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. You have upgraded an installed copy of Ubuntu
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a descriptive single-line summary of the accomplishment.
+#: ../accomplishments/ubuntu-desktop/upgraded-ubuntu.c:20
+msgid "ubuntu-desktop/upgraded-ubuntu_description"
+msgstr ""
+
+#. ACCOMPLISHMENT: Upgraded Ubuntu ('s' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. A new release of Ubuntu is available every six months, in April and October, with a long-term support (LTS) release every two years.  Once you've installed Ubuntu, you can just upgrade it at every release instead of re-installing.  It's simple to do and you won't lose your data.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
+#. NOTE: Break this into paragraphs by putting each paragraph on a new line.
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/upgraded-ubuntu.c:31
+msgid "ubuntu-desktop/upgraded-ubuntu_summary"
+msgstr ""
+
+#. ACCOMPLISHMENT: Upgraded Ubuntu ('s' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Install Ubuntu.
+#. Once a new release comes out, Launch the Update Manager.
+#. Click the <i>Check</i> but to check for new updates.  After checking for updates, click on <i>Upgrade</i>.
+#. Read the message about the new release and click <i>Upgrade</i> again.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a series of step-by-step instructions for how to accomplish this trophy.
+#. NOTE: Put each step on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/upgraded-ubuntu.c:45
+msgid "ubuntu-desktop/upgraded-ubuntu_steps"
+msgstr ""
+
+#. ACCOMPLISHMENT: Upgraded Ubuntu ('l' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. http://www.ubuntu.com/download/desktop/upgrade
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add related web addresses (don't include a HTML link).
+#. NOTE: Put each URL on a new line
+#: ../accomplishments/ubuntu-desktop/upgraded-ubuntu.c:55
+msgid "ubuntu-desktop/upgraded-ubuntu_links"
+msgstr ""
+
+#. ACCOMPLISHMENT: Upgraded Ubuntu ('h' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. #ubuntu on Freenode
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add related help resources (e.g. IRC channel names).
+#. NOTE: Put each help resource on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/upgraded-ubuntu.c:66
+msgid "ubuntu-desktop/upgraded-ubuntu_help"
+msgstr ""
+
+#. ACCOMPLISHMENT: Edited Accomplishment Identification ('t' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Edited Accomplishment Identification
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. A short description of the accomplishment.
+#. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
+#: ../accomplishments/ubuntu-desktop/accomplishments-edit-credentials.c:11
+msgid "ubuntu-desktop/accomplishments-edit-credentials_title"
+msgstr ""
+
+#. ACCOMPLISHMENT: Edited Accomplishment Identification ('d' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. You have edited your identity settings.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a descriptive single-line summary of the accomplishment.
+#: ../accomplishments/ubuntu-desktop/accomplishments-edit-credentials.c:20
+msgid "ubuntu-desktop/accomplishments-edit-credentials_description"
+msgstr ""
+
+#. ACCOMPLISHMENT: Edited Accomplishment Identification ('s' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. For opportunities that require external verification (such as the <i>Ubuntu Community Accomplishments</i> collection, you need to provide various authentication details so that these opportunities can be checked for completion. You were asked for these details when you installed these collections to your computer.
+#. You may however need to change the details you provided, for example, such as if have changed your email address or other details.
+#. This accomplishment is awarded when you have edited these credentials.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
+#. NOTE: Break this into paragraphs by putting each paragraph on a new line.
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/accomplishments-edit-credentials.c:33
+msgid "ubuntu-desktop/accomplishments-edit-credentials_summary"
+msgstr ""
+
+#. ACCOMPLISHMENT: Edited Accomplishment Identification ('s' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Click the <i>Edit</i> menu in this application.
+#. Click the <i>Identification...</i> option.
+#. You will be presented with all of the different identity details that are required.
+#. Edit the boxes and then click the <i>OK</i> button to save them.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a series of step-by-step instructions for how to accomplish this trophy.
+#. NOTE: Put each step on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/accomplishments-edit-credentials.c:47
+msgid "ubuntu-desktop/accomplishments-edit-credentials_steps"
+msgstr ""
+
+#. ACCOMPLISHMENT: Edited Accomplishment Identification ('t' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Always ensure that you enter the correct details.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add tips and best practise for accomplishing this trophy.
+#. NOTE: Put each tip on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/accomplishments-edit-credentials.c:58
+msgid "ubuntu-desktop/accomplishments-edit-credentials_tips"
+msgstr ""
+
+#. ACCOMPLISHMENT: Edited Accomplishment Identification ('p' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Don't add someone else's identification details: the information you use will be shown in the trophy information so it will be clear that you were cheating!
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add things the user should not do when working to accomplish this trophy.
+#. NOTE: Put each pitfall on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/accomplishments-edit-credentials.c:69
+msgid "ubuntu-desktop/accomplishments-edit-credentials_pitfalls"
+msgstr ""
+
+#. ACCOMPLISHMENT: Edited Accomplishment Identification ('h' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Click the <i>Help</i> menu.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add related help resources (e.g. IRC channel names).
+#. NOTE: Put each help resource on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/accomplishments-edit-credentials.c:80
+msgid "ubuntu-desktop/accomplishments-edit-credentials_help"
+msgstr ""
+
+#. ACCOMPLISHMENT: Shared With Accomplishments Service ('t' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Shared With Accomplishments Service
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. A short description of the accomplishment.
+#. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
+#: ../accomplishments/ubuntu-desktop/accomplishments-shared-with-validation-server.c:11
+msgid "ubuntu-desktop/accomplishments-shared-with-validation-server_title"
+msgstr ""
+
+#. ACCOMPLISHMENT: Shared With Accomplishments Service ('d' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. You have shared with the Accomplishments Service
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a descriptive single-line summary of the accomplishment.
+#: ../accomplishments/ubuntu-desktop/accomplishments-shared-with-validation-server.c:20
+msgid ""
+"ubuntu-desktop/accomplishments-shared-with-validation-server_description"
+msgstr ""
+
+#. ACCOMPLISHMENT: Shared With Accomplishments Service ('s' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Many of the different opportunities that are available in <i>Ubuntu Accomplishments</i> require validation through the Accomplishments Service.  The Accomplishments Service uses Ubuntu One to validate and store trophies you've earned.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
+#. NOTE: Break this into paragraphs by putting each paragraph on a new line.
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/accomplishments-shared-with-validation-server.c:31
+msgid "ubuntu-desktop/accomplishments-shared-with-validation-server_summary"
+msgstr ""
+
+#. ACCOMPLISHMENT: Shared With Accomplishments Service ('s' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Authorize your Ubuntu One account in the Accomplishments Viewer.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a series of step-by-step instructions for how to accomplish this trophy.
+#. NOTE: Put each step on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/accomplishments-shared-with-validation-server.c:42
+msgid "ubuntu-desktop/accomplishments-shared-with-validation-server_steps"
+msgstr ""
+
+#. ACCOMPLISHMENT: Change Wallpaper ('t' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Change Wallpaper
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. A short description of the accomplishment.
+#. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
+#: ../accomplishments/ubuntu-desktop/change-wallpaper.c:11
+msgid "ubuntu-desktop/change-wallpaper_title"
+msgstr ""
+
+#. ACCOMPLISHMENT: Change Wallpaper ('d' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. You have changed your wallpaper
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a descriptive single-line summary of the accomplishment.
+#: ../accomplishments/ubuntu-desktop/change-wallpaper.c:20
+msgid "ubuntu-desktop/change-wallpaper_description"
+msgstr ""
+
+#. ACCOMPLISHMENT: Change Wallpaper ('s' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. This accomplishment is awarded when you change the wallpaper used by Ubuntu.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
+#. NOTE: Break this into paragraphs by putting each paragraph on a new line.
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/change-wallpaper.c:31
+msgid "ubuntu-desktop/change-wallpaper_summary"
+msgstr ""
+
+#. ACCOMPLISHMENT: Change Wallpaper ('s' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Click the <i>Dash Home</i>
+#. Enter <i>System Settings</i>
+#. You will be presented with the System Settings application
+#. Click the <i>System Settings</i> icon
+#. Click <i>Appearance</i> icon
+#. Click + button
+#. <i>Navigate to</i> and <i>select</i> new wallpaper
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a series of step-by-step instructions for how to accomplish this trophy.
+#. NOTE: Put each step on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/change-wallpaper.c:48
+msgid "ubuntu-desktop/change-wallpaper_steps"
+msgstr ""
+
+#. ACCOMPLISHMENT: Change Wallpaper ('t' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. You can edit positioning and background colour
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add tips and best practise for accomplishing this trophy.
+#. NOTE: Put each tip on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/change-wallpaper.c:59
+msgid "ubuntu-desktop/change-wallpaper_tips"
+msgstr ""
+
+#. ACCOMPLISHMENT: Change Wallpaper ('l' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. https://help.ubuntu.com/12.04/ubuntu-help/look-background.html
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add related web addresses (don't include a HTML link).
+#. NOTE: Put each URL on a new line
+#: ../accomplishments/ubuntu-desktop/change-wallpaper.c:69
+msgid "ubuntu-desktop/change-wallpaper_links"
+msgstr ""
+
+#. ACCOMPLISHMENT: Sudoku Master ('t' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Sudoku Master
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. A short description of the accomplishment.
+#. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
+#: ../accomplishments/ubuntu-desktop/sudoku_very_hard.c:11
+msgid "ubuntu-desktop/sudoku_very_hard_title"
+msgstr ""
+
+#. ACCOMPLISHMENT: Sudoku Master ('d' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Win very hard a game of Sudoku
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a descriptive single-line summary of the accomplishment.
+#: ../accomplishments/ubuntu-desktop/sudoku_very_hard.c:20
+msgid "ubuntu-desktop/sudoku_very_hard_description"
+msgstr ""
+
+#. ACCOMPLISHMENT: Sudoku Master ('s' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. You can achieve this accomplishment by completing a game of Sudoku in the <b>very hard</b> difficulty.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
+#. NOTE: Break this into paragraphs by putting each paragraph on a new line.
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/sudoku_very_hard.c:31
+msgid "ubuntu-desktop/sudoku_very_hard_summary"
+msgstr ""
+
+#. ACCOMPLISHMENT: Sudoku Master ('s' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Start Sudoku.
+#. Select a very hard game.
+#. Fill out the squares until the whole board is completed.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a series of step-by-step instructions for how to accomplish this trophy.
+#. NOTE: Put each step on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/sudoku_very_hard.c:44
+msgid "ubuntu-desktop/sudoku_very_hard_steps"
+msgstr ""
+
+#. ACCOMPLISHMENT: Sudoku Master ('t' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. There's no time limit, so no need to rush.
+#. You can get extra help from sudoku's help menu (F1).
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add tips and best practise for accomplishing this trophy.
+#. NOTE: Put each tip on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/sudoku_very_hard.c:56
+msgid "ubuntu-desktop/sudoku_very_hard_tips"
+msgstr ""
+
+#. ACCOMPLISHMENT: World's Fastest Minesweeper ('t' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. World's Fastest Minesweeper
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. A short description of the accomplishment.
+#. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
+#: ../accomplishments/ubuntu-desktop/gnomine_small_in_4.c:11
+msgid "ubuntu-desktop/gnomine_small_in_4_title"
+msgstr ""
+
+#. ACCOMPLISHMENT: World's Fastest Minesweeper ('d' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Win a Small Gnomine game in less than 4 (!) seconds
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a descriptive single-line summary of the accomplishment.
+#: ../accomplishments/ubuntu-desktop/gnomine_small_in_4.c:20
+msgid "ubuntu-desktop/gnomine_small_in_4_description"
+msgstr ""
+
+#. ACCOMPLISHMENT: World's Fastest Minesweeper ('s' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. To win this trophy, finish a Small Gnomine game under 4 seconds.
+#. Yes, this is actually possible, but you need to be very skilled!
+#. Although it requires lots of luck, mad skill are also helpful.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
+#. NOTE: Break this into paragraphs by putting each paragraph on a new line.
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/gnomine_small_in_4.c:33
+msgid "ubuntu-desktop/gnomine_small_in_4_summary"
+msgstr ""
+
+#. ACCOMPLISHMENT: World's Fastest Minesweeper ('s' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Start Gnomine.
+#. Choose 8x8 (small) game.
+#. Find all hidden mines as fast as possible!
+#. Be sure to finish under 4 seconds! YAY!
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a series of step-by-step instructions for how to accomplish this trophy.
+#. NOTE: Put each step on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/gnomine_small_in_4.c:47
+msgid "ubuntu-desktop/gnomine_small_in_4_steps"
+msgstr ""
+
+#. ACCOMPLISHMENT: World's Fastest Minesweeper ('t' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. This accomplishment requires lots of practice to achieve.
+#. Play a lot, play everyday, train yourself!
+#. Play on a window as small as possible, so that you need to move your mouse less.
+#. When it comes to that fast minesweeping, there is no time to think. Make moves immediately, if you thought too long, just start a new game.
+#. A lot of fields are not solvable within that short time. It may be helpful to ignore difficult random combinations, and do your best only on those fields, where 1/2 of the grid is uncovered in the first click.
+#. You need LOTS of luck to achieve this one.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add tips and best practise for accomplishing this trophy.
+#. NOTE: Put each tip on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/gnomine_small_in_4.c:63
+msgid "ubuntu-desktop/gnomine_small_in_4_tips"
+msgstr ""
+
+#. ACCOMPLISHMENT: World's Fastest Minesweeper ('p' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Do not assume you can get this achievement quickly. Be patient!
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add things the user should not do when working to accomplish this trophy.
+#. NOTE: Put each pitfall on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/gnomine_small_in_4.c:74
+msgid "ubuntu-desktop/gnomine_small_in_4_pitfalls"
+msgstr ""
+
+#. ACCOMPLISHMENT: Perfect Mine Clearance ('t' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Perfect Mine Clearance
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. A short description of the accomplishment.
+#. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
+#: ../accomplishments/ubuntu-desktop/gnomine_medium_5_times.c:11
+msgid "ubuntu-desktop/gnomine_medium_5_times_title"
+msgstr ""
+
+#. ACCOMPLISHMENT: Perfect Mine Clearance ('d' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Win a Medium Gnomine game 5 times
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a descriptive single-line summary of the accomplishment.
+#: ../accomplishments/ubuntu-desktop/gnomine_medium_5_times.c:20
+msgid "ubuntu-desktop/gnomine_medium_5_times_description"
+msgstr ""
+
+#. ACCOMPLISHMENT: Perfect Mine Clearance ('s' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. You can achieve this accomplishment by finishing a Medium game in Gnomine 5 times.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
+#. NOTE: Break this into paragraphs by putting each paragraph on a new line.
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/gnomine_medium_5_times.c:31
+msgid "ubuntu-desktop/gnomine_medium_5_times_summary"
+msgstr ""
+
+#. ACCOMPLISHMENT: Perfect Mine Clearance ('s' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Start Gnomine.
+#. Choose 16x16 (medium) game.
+#. Find all hidden mines!
+#. Repeat 5 times.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a series of step-by-step instructions for how to accomplish this trophy.
+#. NOTE: Put each step on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/gnomine_medium_5_times.c:45
+msgid "ubuntu-desktop/gnomine_medium_5_times_steps"
+msgstr ""
+
+#. ACCOMPLISHMENT: Perfect Mine Clearance ('t' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. It can take some time to accomplish this one.
+#. No need to hurry! Time does not matter, so choose your moves wisely.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add tips and best practise for accomplishing this trophy.
+#. NOTE: Put each tip on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/gnomine_medium_5_times.c:57
+msgid "ubuntu-desktop/gnomine_medium_5_times_tips"
+msgstr ""
+
+#. ACCOMPLISHMENT: Completed Mahjongg - The Pyramid's Wall Level ('t' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Completed Mahjongg - The Pyramid's Wall Level
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. A short description of the accomplishment.
+#. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
+#: ../accomplishments/ubuntu-desktop/mahjongg-pyramid.c:11
+msgid "ubuntu-desktop/mahjongg-pyramid_title"
+msgstr ""
+
+#. ACCOMPLISHMENT: Completed Mahjongg - The Pyramid's Wall Level ('d' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. You have completed Mahjongg - The Pyramid's Wall Level
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a descriptive single-line summary of the accomplishment.
+#: ../accomplishments/ubuntu-desktop/mahjongg-pyramid.c:20
+msgid "ubuntu-desktop/mahjongg-pyramid_description"
+msgstr ""
+
+#. ACCOMPLISHMENT: Completed Mahjongg - The Pyramid's Wall Level ('s' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Mahjongg is a solitaire (one player) version of the classic Eastern tile game, Mahjongg. The objective is to select pairs of similar tiles.  To achieve this accomplishment all you need to do is to clear the grid on the The Pyramid's Wall level
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
+#. NOTE: Break this into paragraphs by putting each paragraph on a new line.
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/mahjongg-pyramid.c:31
+msgid "ubuntu-desktop/mahjongg-pyramid_summary"
+msgstr ""
+
+#. ACCOMPLISHMENT: Completed Mahjongg - The Pyramid's Wall Level ('h' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. https://live.gnome.org/Mahjongg
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add related help resources (e.g. IRC channel names).
+#. NOTE: Put each help resource on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/mahjongg-pyramid.c:42
+msgid "ubuntu-desktop/mahjongg-pyramid_help"
+msgstr ""
+
+#. ACCOMPLISHMENT: Completed Mahjongg - The Confounding Cross Level ('t' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Completed Mahjongg - The Confounding Cross Level
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. A short description of the accomplishment.
+#. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
+#: ../accomplishments/ubuntu-desktop/mahjongg-confounding.c:11
+msgid "ubuntu-desktop/mahjongg-confounding_title"
+msgstr ""
+
+#. ACCOMPLISHMENT: Completed Mahjongg - The Confounding Cross Level ('d' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. You have completed Mahjongg - The Confounding Cross Level
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a descriptive single-line summary of the accomplishment.
+#: ../accomplishments/ubuntu-desktop/mahjongg-confounding.c:20
+msgid "ubuntu-desktop/mahjongg-confounding_description"
+msgstr ""
+
+#. ACCOMPLISHMENT: Completed Mahjongg - The Confounding Cross Level ('s' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Mahjongg is a solitaire (one player) version of the classic Eastern tile game, Mahjongg. The objective is to select pairs of similar tiles.  To achieve this accomplishment all you need to do is to clear the grid on the The Confounding Cross level
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
+#. NOTE: Break this into paragraphs by putting each paragraph on a new line.
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/mahjongg-confounding.c:31
+msgid "ubuntu-desktop/mahjongg-confounding_summary"
+msgstr ""
+
+#. ACCOMPLISHMENT: Completed Mahjongg - The Confounding Cross Level ('h' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. https://live.gnome.org/Mahjongg
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add related help resources (e.g. IRC channel names).
+#. NOTE: Put each help resource on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/mahjongg-confounding.c:42
+msgid "ubuntu-desktop/mahjongg-confounding_help"
+msgstr ""
+
+#. ACCOMPLISHMENT: Completed Mahjongg - The Tic-Tac-Toe Level ('t' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Completed Mahjongg - The Tic-Tac-Toe Level
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. A short description of the accomplishment.
+#. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
+#: ../accomplishments/ubuntu-desktop/mahjongg-tictactoe.c:11
+msgid "ubuntu-desktop/mahjongg-tictactoe_title"
+msgstr ""
+
+#. ACCOMPLISHMENT: Completed Mahjongg - The Tic-Tac-Toe Level ('d' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. You have completed Mahjongg - The Tic-Tac-Toe Level
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a descriptive single-line summary of the accomplishment.
+#: ../accomplishments/ubuntu-desktop/mahjongg-tictactoe.c:20
+msgid "ubuntu-desktop/mahjongg-tictactoe_description"
+msgstr ""
+
+#. ACCOMPLISHMENT: Completed Mahjongg - The Tic-Tac-Toe Level ('s' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Mahjongg is a solitaire (one player) version of the classic Eastern tile game, Mahjongg. The objective is to select pairs of similar tiles.  To achieve this accomplishment all you need to do is to clear the grid on the The Tic-Tac-Toe level
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
+#. NOTE: Break this into paragraphs by putting each paragraph on a new line.
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/mahjongg-tictactoe.c:31
+msgid "ubuntu-desktop/mahjongg-tictactoe_summary"
+msgstr ""
+
+#. ACCOMPLISHMENT: Completed Mahjongg - The Tic-Tac-Toe Level ('h' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. https://live.gnome.org/Mahjongg
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add related help resources (e.g. IRC channel names).
+#. NOTE: Put each help resource on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/mahjongg-tictactoe.c:42
+msgid "ubuntu-desktop/mahjongg-tictactoe_help"
+msgstr ""
+
+#. ACCOMPLISHMENT: Expert Minesweeper ('t' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Expert Minesweeper
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. A short description of the accomplishment.
+#. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
+#: ../accomplishments/ubuntu-desktop/gnomine_win-large.c:11
+msgid "ubuntu-desktop/gnomine_win-large_title"
+msgstr ""
+
+#. ACCOMPLISHMENT: Expert Minesweeper ('d' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Win a Large Gnomine game
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a descriptive single-line summary of the accomplishment.
+#: ../accomplishments/ubuntu-desktop/gnomine_win-large.c:20
+msgid "ubuntu-desktop/gnomine_win-large_description"
+msgstr ""
+
+#. ACCOMPLISHMENT: Expert Minesweeper ('s' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. You can achieve this accomplishment by finishing a Large game in Gnomine.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
+#. NOTE: Break this into paragraphs by putting each paragraph on a new line.
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/gnomine_win-large.c:31
+msgid "ubuntu-desktop/gnomine_win-large_summary"
+msgstr ""
+
+#. ACCOMPLISHMENT: Expert Minesweeper ('s' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Start Gnomine.
+#. Choose 30x16 (large) game.
+#. Find all hidden mines!
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a series of step-by-step instructions for how to accomplish this trophy.
+#. NOTE: Put each step on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/gnomine_win-large.c:44
+msgid "ubuntu-desktop/gnomine_win-large_steps"
+msgstr ""
+
+#. ACCOMPLISHMENT: Expert Minesweeper ('t' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. You can learn the gameplay rules from Gnomine help.
+#. If finding mines is to hard for you, try practising on a smaller field.
+#. This dificulty level is usually impossible to complete if you are out of luck. Be patient, sooner or later, you will manage!
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add tips and best practise for accomplishing this trophy.
+#. NOTE: Put each tip on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/gnomine_win-large.c:57
+msgid "ubuntu-desktop/gnomine_win-large_tips"
+msgstr ""
+
+#. ACCOMPLISHMENT: Impressive Demining ('t' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Impressive Demining
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. A short description of the accomplishment.
+#. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
+#: ../accomplishments/ubuntu-desktop/gnomine_large_5_times.c:11
+msgid "ubuntu-desktop/gnomine_large_5_times_title"
+msgstr ""
+
+#. ACCOMPLISHMENT: Impressive Demining ('d' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Win a Large Gnomine game 5 times
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a descriptive single-line summary of the accomplishment.
+#: ../accomplishments/ubuntu-desktop/gnomine_large_5_times.c:20
+msgid "ubuntu-desktop/gnomine_large_5_times_description"
+msgstr ""
+
+#. ACCOMPLISHMENT: Impressive Demining ('s' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. You can achieve this accomplishment by finishing a Large game in Gnomine 5 times.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
+#. NOTE: Break this into paragraphs by putting each paragraph on a new line.
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/gnomine_large_5_times.c:31
+msgid "ubuntu-desktop/gnomine_large_5_times_summary"
+msgstr ""
+
+#. ACCOMPLISHMENT: Impressive Demining ('s' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Start Gnomine.
+#. Choose 30x16 (large) game.
+#. Find all hidden mines!
+#. Repeat 5 times.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a series of step-by-step instructions for how to accomplish this trophy.
+#. NOTE: Put each step on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/gnomine_large_5_times.c:45
+msgid "ubuntu-desktop/gnomine_large_5_times_steps"
+msgstr ""
+
+#. ACCOMPLISHMENT: Impressive Demining ('t' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. It can take some time to accomplish this one.
+#. No need to hurry! Time does not matter, so choose your moves wisely.
+#. This accomplishment is for real experts.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add tips and best practise for accomplishing this trophy.
+#. NOTE: Put each tip on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/gnomine_large_5_times.c:58
+msgid "ubuntu-desktop/gnomine_large_5_times_tips"
+msgstr ""
+
+#. ACCOMPLISHMENT: Blitzkrieg ('t' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Blitzkrieg
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. A short description of the accomplishment.
+#. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
+#: ../accomplishments/ubuntu-desktop/gnomine_small_in_8.c:11
+msgid "ubuntu-desktop/gnomine_small_in_8_title"
+msgstr ""
+
+#. ACCOMPLISHMENT: Blitzkrieg ('d' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Win a Small Gnomine game in less than 8 seconds
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a descriptive single-line summary of the accomplishment.
+#: ../accomplishments/ubuntu-desktop/gnomine_small_in_8.c:20
+msgid "ubuntu-desktop/gnomine_small_in_8_description"
+msgstr ""
+
+#. ACCOMPLISHMENT: Blitzkrieg ('s' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. To win this trophy, finish a Small Gnomine game under 8 seconds.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
+#. NOTE: Break this into paragraphs by putting each paragraph on a new line.
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/gnomine_small_in_8.c:31
+msgid "ubuntu-desktop/gnomine_small_in_8_summary"
+msgstr ""
+
+#. ACCOMPLISHMENT: Blitzkrieg ('s' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Start Gnomine.
+#. Choose 8x8 (small) game.
+#. Find all hidden mines as fast as possible!
+#. Be sure to finish under 8 seconds!
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a series of step-by-step instructions for how to accomplish this trophy.
+#. NOTE: Put each step on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/gnomine_small_in_8.c:45
+msgid "ubuntu-desktop/gnomine_small_in_8_steps"
+msgstr ""
+
+#. ACCOMPLISHMENT: Blitzkrieg ('t' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. This accomplishment requires lots of practice to achieve.
+#. Play on a window as small as possible, so that you need to move your mouse less.
+#. When it comes to that fast minesweeping, there is no time to think. Make moves immediately, if you thought too long, just start a new game.
+#. A lot of fields is not solvable within 8 seconds. It may be helpful to ignore difficult random combinations, and do your best only on those fields, where 1/2 of the grid is uncovered in the first click.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add tips and best practise for accomplishing this trophy.
+#. NOTE: Put each tip on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/gnomine_small_in_8.c:59
+msgid "ubuntu-desktop/gnomine_small_in_8_tips"
+msgstr ""
+
+#. ACCOMPLISHMENT: Timed Minesweeping ('t' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Timed Minesweeping
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. A short description of the accomplishment.
+#. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
+#: ../accomplishments/ubuntu-desktop/gnomine_small_in_40.c:11
+msgid "ubuntu-desktop/gnomine_small_in_40_title"
+msgstr ""
+
+#. ACCOMPLISHMENT: Timed Minesweeping ('d' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Win a Small Gnomine game under 40 seconds
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a descriptive single-line summary of the accomplishment.
+#: ../accomplishments/ubuntu-desktop/gnomine_small_in_40.c:20
+msgid "ubuntu-desktop/gnomine_small_in_40_description"
+msgstr ""
+
+#. ACCOMPLISHMENT: Timed Minesweeping ('s' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. To win this trophy, finish a Small Gnomine game under 40 seconds.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
+#. NOTE: Break this into paragraphs by putting each paragraph on a new line.
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/gnomine_small_in_40.c:31
+msgid "ubuntu-desktop/gnomine_small_in_40_summary"
+msgstr ""
+
+#. ACCOMPLISHMENT: Timed Minesweeping ('s' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Start Gnomine.
+#. Choose 8x8 (small) game.
+#. Find all hidden mines as fast as possible!
+#. Be sure to finish under 40 seconds!
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a series of step-by-step instructions for how to accomplish this trophy.
+#. NOTE: Put each step on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/gnomine_small_in_40.c:45
+msgid "ubuntu-desktop/gnomine_small_in_40_steps"
+msgstr ""
+
+#. ACCOMPLISHMENT: Timed Minesweeping ('t' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Practice, practice, practice. If you are not fast enough, be sure to improve your skills by practicing a lot.
+#. This is a simple accomplishment. Unless you are a complete newcommer, you should manage it easily.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add tips and best practise for accomplishing this trophy.
+#. NOTE: Put each tip on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/gnomine_small_in_40.c:57
+msgid "ubuntu-desktop/gnomine_small_in_40_tips"
+msgstr ""
+
+#. ACCOMPLISHMENT: Pro Sudoku Player ('t' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Pro Sudoku Player
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. A short description of the accomplishment.
+#. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
+#: ../accomplishments/ubuntu-desktop/sudoku_medium.c:11
+msgid "ubuntu-desktop/sudoku_medium_title"
+msgstr ""
+
+#. ACCOMPLISHMENT: Pro Sudoku Player ('d' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Win a medium game of Sudoku
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a descriptive single-line summary of the accomplishment.
+#: ../accomplishments/ubuntu-desktop/sudoku_medium.c:20
+msgid "ubuntu-desktop/sudoku_medium_description"
+msgstr ""
+
+#. ACCOMPLISHMENT: Pro Sudoku Player ('s' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. You can achieve this accomplishment by completing a game of Sudoku on the <b>medium</b> difficulty.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
+#. NOTE: Break this into paragraphs by putting each paragraph on a new line.
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/sudoku_medium.c:31
+msgid "ubuntu-desktop/sudoku_medium_summary"
+msgstr ""
+
+#. ACCOMPLISHMENT: Pro Sudoku Player ('s' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Start Sudoku.
+#. Select medium game.
+#. Fill out the squares until the whole board is completed.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a series of step-by-step instructions for how to accomplish this trophy.
+#. NOTE: Put each step on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/sudoku_medium.c:44
+msgid "ubuntu-desktop/sudoku_medium_steps"
+msgstr ""
+
+#. ACCOMPLISHMENT: Pro Sudoku Player ('t' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. There's no time limit, so no need to rush.
+#. You can get extra help from sudoku's help menu (F1).
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add tips and best practise for accomplishing this trophy.
+#. NOTE: Put each tip on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/sudoku_medium.c:56
+msgid "ubuntu-desktop/sudoku_medium_tips"
+msgstr ""
+
+#. ACCOMPLISHMENT: Completed Mahjongg - The Red Dragon Level ('t' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Completed Mahjongg - The Red Dragon Level
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. A short description of the accomplishment.
+#. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
+#: ../accomplishments/ubuntu-desktop/mahjongg-dragon.c:11
+msgid "ubuntu-desktop/mahjongg-dragon_title"
+msgstr ""
+
+#. ACCOMPLISHMENT: Completed Mahjongg - The Red Dragon Level ('d' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. You have completed Mahjongg - The Red Dragon Level
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a descriptive single-line summary of the accomplishment.
+#: ../accomplishments/ubuntu-desktop/mahjongg-dragon.c:20
+msgid "ubuntu-desktop/mahjongg-dragon_description"
+msgstr ""
+
+#. ACCOMPLISHMENT: Completed Mahjongg - The Red Dragon Level ('s' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Mahjongg is a solitaire (one player) version of the classic Eastern tile game, Mahjongg. The objective is to select pairs of similar tiles.  To achieve this accomplishment all you need to do is to clear the grid on the The Red Dragon level
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
+#. NOTE: Break this into paragraphs by putting each paragraph on a new line.
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/mahjongg-dragon.c:31
+msgid "ubuntu-desktop/mahjongg-dragon_summary"
+msgstr ""
+
+#. ACCOMPLISHMENT: Completed Mahjongg - The Red Dragon Level ('h' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. https://live.gnome.org/Mahjongg
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add related help resources (e.g. IRC channel names).
+#. NOTE: Put each help resource on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/mahjongg-dragon.c:42
+msgid "ubuntu-desktop/mahjongg-dragon_help"
+msgstr ""
+
+#. ACCOMPLISHMENT: Completed Mahjongg on Difficult ('t' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Completed Mahjongg on Difficult
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. A short description of the accomplishment.
+#. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
+#: ../accomplishments/ubuntu-desktop/mahjongg-difficult.c:11
+msgid "ubuntu-desktop/mahjongg-difficult_title"
+msgstr ""
+
+#. ACCOMPLISHMENT: Completed Mahjongg on Difficult ('d' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. You have completed Mahjongg on Difficult
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a descriptive single-line summary of the accomplishment.
+#: ../accomplishments/ubuntu-desktop/mahjongg-difficult.c:20
+msgid "ubuntu-desktop/mahjongg-difficult_description"
+msgstr ""
+
+#. ACCOMPLISHMENT: Completed Mahjongg on Difficult ('s' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Mahjongg is a solitaire (one player) version of the classic Eastern tile game, Mahjongg. The objective is to select pairs of similar tiles.  To achieve this accomplishment all you need to do is to clear the grid on the Difficult difficulty setting.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
+#. NOTE: Break this into paragraphs by putting each paragraph on a new line.
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/mahjongg-difficult.c:31
+msgid "ubuntu-desktop/mahjongg-difficult_summary"
+msgstr ""
+
+#. ACCOMPLISHMENT: Completed Mahjongg on Difficult ('h' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. https://live.gnome.org/Mahjongg
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add related help resources (e.g. IRC channel names).
+#. NOTE: Put each help resource on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/mahjongg-difficult.c:42
+msgid "ubuntu-desktop/mahjongg-difficult_help"
+msgstr ""
+
+#. ACCOMPLISHMENT: Advanced Demining ('t' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Advanced Demining
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. A short description of the accomplishment.
+#. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
+#: ../accomplishments/ubuntu-desktop/gnomine_win-medium.c:11
+msgid "ubuntu-desktop/gnomine_win-medium_title"
+msgstr ""
+
+#. ACCOMPLISHMENT: Advanced Demining ('d' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Win a Medium Gnomine game
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a descriptive single-line summary of the accomplishment.
+#: ../accomplishments/ubuntu-desktop/gnomine_win-medium.c:20
+msgid "ubuntu-desktop/gnomine_win-medium_description"
+msgstr ""
+
+#. ACCOMPLISHMENT: Advanced Demining ('s' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. You can achieve this accomplishment by finishing a Medium game in Gnomine.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
+#. NOTE: Break this into paragraphs by putting each paragraph on a new line.
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/gnomine_win-medium.c:31
+msgid "ubuntu-desktop/gnomine_win-medium_summary"
+msgstr ""
+
+#. ACCOMPLISHMENT: Advanced Demining ('s' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Start Gnomine.
+#. Choose 16x16 (medium) game.
+#. Find all hidden mines!
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a series of step-by-step instructions for how to accomplish this trophy.
+#. NOTE: Put each step on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/gnomine_win-medium.c:44
+msgid "ubuntu-desktop/gnomine_win-medium_steps"
+msgstr ""
+
+#. ACCOMPLISHMENT: Advanced Demining ('t' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. You can learn the gameplay rules from Gnomine help.
+#. If finding mines is to hard for you, try practising on a smaller field.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add tips and best practise for accomplishing this trophy.
+#. NOTE: Put each tip on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/gnomine_win-medium.c:56
+msgid "ubuntu-desktop/gnomine_win-medium_tips"
+msgstr ""
+
+#. ACCOMPLISHMENT: Practicing demining ('t' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Practicing demining
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. A short description of the accomplishment.
+#. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
+#: ../accomplishments/ubuntu-desktop/gnomine_small_10_times.c:11
+msgid "ubuntu-desktop/gnomine_small_10_times_title"
+msgstr ""
+
+#. ACCOMPLISHMENT: Practicing demining ('d' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Win a Small Gnomine game 10 times
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a descriptive single-line summary of the accomplishment.
+#: ../accomplishments/ubuntu-desktop/gnomine_small_10_times.c:20
+msgid "ubuntu-desktop/gnomine_small_10_times_description"
+msgstr ""
+
+#. ACCOMPLISHMENT: Practicing demining ('s' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. You can achieve this accomplishment by finishing a Small game in Gnomine 10 times.
+#. Prove you are a skilled minesweeper!
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
+#. NOTE: Break this into paragraphs by putting each paragraph on a new line.
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/gnomine_small_10_times.c:32
+msgid "ubuntu-desktop/gnomine_small_10_times_summary"
+msgstr ""
+
+#. ACCOMPLISHMENT: Practicing demining ('s' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Start Gnomine.
+#. Choose 8x8 (small) game.
+#. Find all hidden mines!
+#. Repeat 10 times.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a series of step-by-step instructions for how to accomplish this trophy.
+#. NOTE: Put each step on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/gnomine_small_10_times.c:46
+msgid "ubuntu-desktop/gnomine_small_10_times_steps"
+msgstr ""
+
+#. ACCOMPLISHMENT: Practicing demining ('t' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. You can learn the gameplay rules from Gnomine help.
+#. This accomplishment shouldn't take you a lot of time. It's easy!
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add tips and best practise for accomplishing this trophy.
+#. NOTE: Put each tip on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/gnomine_small_10_times.c:58
+msgid "ubuntu-desktop/gnomine_small_10_times_tips"
+msgstr ""
+
+#. ACCOMPLISHMENT: All Star Sudoku Player ('t' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. All Star Sudoku Player
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. A short description of the accomplishment.
+#. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
+#: ../accomplishments/ubuntu-desktop/sudoku_hard.c:11
+msgid "ubuntu-desktop/sudoku_hard_title"
+msgstr ""
+
+#. ACCOMPLISHMENT: All Star Sudoku Player ('d' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Win a hard game of Sudoku
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a descriptive single-line summary of the accomplishment.
+#: ../accomplishments/ubuntu-desktop/sudoku_hard.c:20
+msgid "ubuntu-desktop/sudoku_hard_description"
+msgstr ""
+
+#. ACCOMPLISHMENT: All Star Sudoku Player ('s' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. You can achieve this accomplishment by completing a game of Sudoku in the <b>hard</b> difficulty.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
+#. NOTE: Break this into paragraphs by putting each paragraph on a new line.
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/sudoku_hard.c:31
+msgid "ubuntu-desktop/sudoku_hard_summary"
+msgstr ""
+
+#. ACCOMPLISHMENT: All Star Sudoku Player ('s' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Start Sudoku.
+#. Select a hard game.
+#. Fill out the squares until the whole board is completed.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a series of step-by-step instructions for how to accomplish this trophy.
+#. NOTE: Put each step on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/sudoku_hard.c:44
+msgid "ubuntu-desktop/sudoku_hard_steps"
+msgstr ""
+
+#. ACCOMPLISHMENT: All Star Sudoku Player ('t' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. There's no time limit, so no need to rush.
+#. You can get extra help from sudoku's help menu (F1).
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add tips and best practise for accomplishing this trophy.
+#. NOTE: Put each tip on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/sudoku_hard.c:56
+msgid "ubuntu-desktop/sudoku_hard_tips"
+msgstr ""
+
+#. ACCOMPLISHMENT: Senior Minesweeper ('t' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Senior Minesweeper
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. A short description of the accomplishment.
+#. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
+#: ../accomplishments/ubuntu-desktop/gnomine_medium_10_times.c:11
+msgid "ubuntu-desktop/gnomine_medium_10_times_title"
+msgstr ""
+
+#. ACCOMPLISHMENT: Senior Minesweeper ('d' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Win a Medium Gnomine game 10 times
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a descriptive single-line summary of the accomplishment.
+#: ../accomplishments/ubuntu-desktop/gnomine_medium_10_times.c:20
+msgid "ubuntu-desktop/gnomine_medium_10_times_description"
+msgstr ""
+
+#. ACCOMPLISHMENT: Senior Minesweeper ('s' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. You can achieve this accomplishment by finishing a Medium game in Gnomine 10 times.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
+#. NOTE: Break this into paragraphs by putting each paragraph on a new line.
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/gnomine_medium_10_times.c:31
+msgid "ubuntu-desktop/gnomine_medium_10_times_summary"
+msgstr ""
+
+#. ACCOMPLISHMENT: Senior Minesweeper ('s' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Start Gnomine.
+#. Choose 16x16 (medium) game.
+#. Find all hidden mines!
+#. Repeat 10 times.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a series of step-by-step instructions for how to accomplish this trophy.
+#. NOTE: Put each step on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/gnomine_medium_10_times.c:45
+msgid "ubuntu-desktop/gnomine_medium_10_times_steps"
+msgstr ""
+
+#. ACCOMPLISHMENT: Senior Minesweeper ('t' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. It can take some time to accomplish this one.
+#. No need to hurry! Time does not matter, so choose your moves wisely.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add tips and best practise for accomplishing this trophy.
+#. NOTE: Put each tip on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/gnomine_medium_10_times.c:57
+msgid "ubuntu-desktop/gnomine_medium_10_times_tips"
+msgstr ""
+
+#. ACCOMPLISHMENT: I'm Too Quick to Miss the Mines ('t' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. I'm Too Quick to Miss the Mines
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. A short description of the accomplishment.
+#. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
+#: ../accomplishments/ubuntu-desktop/gnomine_small_in_13.c:11
+msgid "ubuntu-desktop/gnomine_small_in_13_title"
+msgstr ""
+
+#. ACCOMPLISHMENT: I'm Too Quick to Miss the Mines ('d' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Win a Small Gnomine game under 13 seconds
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a descriptive single-line summary of the accomplishment.
+#: ../accomplishments/ubuntu-desktop/gnomine_small_in_13.c:20
+msgid "ubuntu-desktop/gnomine_small_in_13_description"
+msgstr ""
+
+#. ACCOMPLISHMENT: I'm Too Quick to Miss the Mines ('s' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. To win this trophy, finish a Small Gnomine game under 13 seconds.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
+#. NOTE: Break this into paragraphs by putting each paragraph on a new line.
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/gnomine_small_in_13.c:31
+msgid "ubuntu-desktop/gnomine_small_in_13_summary"
+msgstr ""
+
+#. ACCOMPLISHMENT: I'm Too Quick to Miss the Mines ('s' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Start Gnomine.
+#. Choose 8x8 (small) game.
+#. Find all hidden mines as fast as possible!
+#. Be sure to finish under 13 seconds!
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a series of step-by-step instructions for how to accomplish this trophy.
+#. NOTE: Put each step on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/gnomine_small_in_13.c:45
+msgid "ubuntu-desktop/gnomine_small_in_13_steps"
+msgstr ""
+
+#. ACCOMPLISHMENT: I'm Too Quick to Miss the Mines ('t' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Practice, practice, practice. If you are not fast enough, be sure to improve your skills by practicing a lot.
+#. Play on a window as small as possible, so that you need to move your mouse less.
+#. When it comes to that fast minesweeping, there is no time to think. Make moves immediately, if you thought too long, just start a new game.
+#. Be patient, and do not get nevrous! With a lot of patience, this accomplishment is not that hard to win.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add tips and best practise for accomplishing this trophy.
+#. NOTE: Put each tip on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/gnomine_small_in_13.c:59
+msgid "ubuntu-desktop/gnomine_small_in_13_tips"
+msgstr ""
+
+#. ACCOMPLISHMENT: Completed Mahjongg - The Cloud Level ('t' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Completed Mahjongg - The Cloud Level
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. A short description of the accomplishment.
+#. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
+#: ../accomplishments/ubuntu-desktop/mahjongg-cloud.c:11
+msgid "ubuntu-desktop/mahjongg-cloud_title"
+msgstr ""
+
+#. ACCOMPLISHMENT: Completed Mahjongg - The Cloud Level ('d' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. You have completed Mahjongg - The Cloud Level
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a descriptive single-line summary of the accomplishment.
+#: ../accomplishments/ubuntu-desktop/mahjongg-cloud.c:20
+msgid "ubuntu-desktop/mahjongg-cloud_description"
+msgstr ""
+
+#. ACCOMPLISHMENT: Completed Mahjongg - The Cloud Level ('s' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Mahjongg is a solitaire (one player) version of the classic Eastern tile game, Mahjongg. The objective is to select pairs of similar tiles.  To achieve this accomplishment all you need to do is to clear the grid on the The Cloud level
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
+#. NOTE: Break this into paragraphs by putting each paragraph on a new line.
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/mahjongg-cloud.c:31
+msgid "ubuntu-desktop/mahjongg-cloud_summary"
+msgstr ""
+
+#. ACCOMPLISHMENT: Completed Mahjongg - The Cloud Level ('h' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. https://live.gnome.org/Mahjongg
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add related help resources (e.g. IRC channel names).
+#. NOTE: Put each help resource on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/mahjongg-cloud.c:42
+msgid "ubuntu-desktop/mahjongg-cloud_help"
+msgstr ""
+
+#. ACCOMPLISHMENT: Completed Mahjongg - The Four Bridges Level ('t' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Completed Mahjongg - The Four Bridges Level
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. A short description of the accomplishment.
+#. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
+#: ../accomplishments/ubuntu-desktop/mahjongg-bridges.c:11
+msgid "ubuntu-desktop/mahjongg-bridges_title"
+msgstr ""
+
+#. ACCOMPLISHMENT: Completed Mahjongg - The Four Bridges Level ('d' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. You have completed Mahjongg - The Four Bridges Level
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a descriptive single-line summary of the accomplishment.
+#: ../accomplishments/ubuntu-desktop/mahjongg-bridges.c:20
+msgid "ubuntu-desktop/mahjongg-bridges_description"
+msgstr ""
+
+#. ACCOMPLISHMENT: Completed Mahjongg - The Four Bridges Level ('s' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Mahjongg is a solitaire (one player) version of the classic Eastern tile game, Mahjongg. The objective is to select pairs of similar tiles.  To achieve this accomplishment all you need to do is to clear the grid on the The Four Bridges level
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
+#. NOTE: Break this into paragraphs by putting each paragraph on a new line.
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/mahjongg-bridges.c:31
+msgid "ubuntu-desktop/mahjongg-bridges_summary"
+msgstr ""
+
+#. ACCOMPLISHMENT: Completed Mahjongg - The Four Bridges Level ('h' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. https://live.gnome.org/Mahjongg
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add related help resources (e.g. IRC channel names).
+#. NOTE: Put each help resource on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/mahjongg-bridges.c:42
+msgid "ubuntu-desktop/mahjongg-bridges_help"
+msgstr ""
+
+#. ACCOMPLISHMENT: Finding Mines Quickly ('t' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Finding Mines Quickly
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. A short description of the accomplishment.
+#. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
+#: ../accomplishments/ubuntu-desktop/gnomine_small_in_20.c:11
+msgid "ubuntu-desktop/gnomine_small_in_20_title"
+msgstr ""
+
+#. ACCOMPLISHMENT: Finding Mines Quickly ('d' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Win a Small Gnomine game under 20 seconds
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a descriptive single-line summary of the accomplishment.
+#: ../accomplishments/ubuntu-desktop/gnomine_small_in_20.c:20
+msgid "ubuntu-desktop/gnomine_small_in_20_description"
+msgstr ""
+
+#. ACCOMPLISHMENT: Finding Mines Quickly ('s' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. To win this trophy, finish a Small Gnomine game under 20 seconds.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
+#. NOTE: Break this into paragraphs by putting each paragraph on a new line.
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/gnomine_small_in_20.c:31
+msgid "ubuntu-desktop/gnomine_small_in_20_summary"
+msgstr ""
+
+#. ACCOMPLISHMENT: Finding Mines Quickly ('s' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Start Gnomine.
+#. Choose 8x8 (small) game.
+#. Find all hidden mines as fast as possible!
+#. Be sure to finish under 20 seconds!
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a series of step-by-step instructions for how to accomplish this trophy.
+#. NOTE: Put each step on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/gnomine_small_in_20.c:45
+msgid "ubuntu-desktop/gnomine_small_in_20_steps"
+msgstr ""
+
+#. ACCOMPLISHMENT: Finding Mines Quickly ('t' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Practice, practice, practice. If you are not fast enough, be sure to improve your skills by practicing a lot.
+#. Play on a window as small as possible, so that you need to move your mouse less.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add tips and best practise for accomplishing this trophy.
+#. NOTE: Put each tip on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/gnomine_small_in_20.c:57
+msgid "ubuntu-desktop/gnomine_small_in_20_tips"
+msgstr ""
+
+#. ACCOMPLISHMENT: Completed Mahjongg - The Ziggurat Level ('t' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Completed Mahjongg - The Ziggurat Level
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. A short description of the accomplishment.
+#. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
+#: ../accomplishments/ubuntu-desktop/mahjongg-ziggurat.c:11
+msgid "ubuntu-desktop/mahjongg-ziggurat_title"
+msgstr ""
+
+#. ACCOMPLISHMENT: Completed Mahjongg - The Ziggurat Level ('d' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. You have completed Mahjongg - The Ziggurat Level
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a descriptive single-line summary of the accomplishment.
+#: ../accomplishments/ubuntu-desktop/mahjongg-ziggurat.c:20
+msgid "ubuntu-desktop/mahjongg-ziggurat_description"
+msgstr ""
+
+#. ACCOMPLISHMENT: Completed Mahjongg - The Ziggurat Level ('s' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Mahjongg is a solitaire (one player) version of the classic Eastern tile game, Mahjongg. The objective is to select pairs of similar tiles.  To achieve this accomplishment all you need to do is to clear the grid on the The Ziggurat level
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
+#. NOTE: Break this into paragraphs by putting each paragraph on a new line.
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/mahjongg-ziggurat.c:31
+msgid "ubuntu-desktop/mahjongg-ziggurat_summary"
+msgstr ""
+
+#. ACCOMPLISHMENT: Completed Mahjongg - The Ziggurat Level ('h' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. https://live.gnome.org/Mahjongg
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add related help resources (e.g. IRC channel names).
+#. NOTE: Put each help resource on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/mahjongg-ziggurat.c:42
+msgid "ubuntu-desktop/mahjongg-ziggurat_help"
+msgstr ""
+
+#. ACCOMPLISHMENT: Veteran Minesweeper ('t' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Veteran Minesweeper
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. A short description of the accomplishment.
+#. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
+#: ../accomplishments/ubuntu-desktop/gnomine_large_10_times.c:11
+msgid "ubuntu-desktop/gnomine_large_10_times_title"
+msgstr ""
+
+#. ACCOMPLISHMENT: Veteran Minesweeper ('d' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Win a Large Gnomine game 10 times
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a descriptive single-line summary of the accomplishment.
+#: ../accomplishments/ubuntu-desktop/gnomine_large_10_times.c:20
+msgid "ubuntu-desktop/gnomine_large_10_times_description"
+msgstr ""
+
+#. ACCOMPLISHMENT: Veteran Minesweeper ('s' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. You can achieve this accomplishment by finishing a Large game in Gnomine 10 times.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
+#. NOTE: Break this into paragraphs by putting each paragraph on a new line.
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/gnomine_large_10_times.c:31
+msgid "ubuntu-desktop/gnomine_large_10_times_summary"
+msgstr ""
+
+#. ACCOMPLISHMENT: Veteran Minesweeper ('s' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Start Gnomine.
+#. Choose 30x16 (large) game.
+#. Find all hidden mines!
+#. Repeat 10 times.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a series of step-by-step instructions for how to accomplish this trophy.
+#. NOTE: Put each step on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/gnomine_large_10_times.c:45
+msgid "ubuntu-desktop/gnomine_large_10_times_steps"
+msgstr ""
+
+#. ACCOMPLISHMENT: Veteran Minesweeper ('t' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. It can take some time to accomplish this one.
+#. No need to hurry! Time does not matter, so choose your moves wisely.
+#. This accomplishment is for real experts.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add tips and best practise for accomplishing this trophy.
+#. NOTE: Put each tip on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/gnomine_large_10_times.c:58
+msgid "ubuntu-desktop/gnomine_large_10_times_tips"
+msgstr ""
+
+#. ACCOMPLISHMENT: Beginner Minesweeper ('t' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Beginner Minesweeper
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. A short description of the accomplishment.
+#. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
+#: ../accomplishments/ubuntu-desktop/gnomine_win-small.c:11
+msgid "ubuntu-desktop/gnomine_win-small_title"
+msgstr ""
+
+#. ACCOMPLISHMENT: Beginner Minesweeper ('d' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Win a Small Gnomine game
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a descriptive single-line summary of the accomplishment.
+#: ../accomplishments/ubuntu-desktop/gnomine_win-small.c:20
+msgid "ubuntu-desktop/gnomine_win-small_description"
+msgstr ""
+
+#. ACCOMPLISHMENT: Beginner Minesweeper ('s' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. You can achieve this accomplishment by finishing a Small game in Gnomine.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
+#. NOTE: Break this into paragraphs by putting each paragraph on a new line.
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/gnomine_win-small.c:31
+msgid "ubuntu-desktop/gnomine_win-small_summary"
+msgstr ""
+
+#. ACCOMPLISHMENT: Beginner Minesweeper ('s' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Start Gnomine.
+#. Choose 8x8 (small) game.
+#. Find all hidden mines!
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a series of step-by-step instructions for how to accomplish this trophy.
+#. NOTE: Put each step on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/gnomine_win-small.c:44
+msgid "ubuntu-desktop/gnomine_win-small_steps"
+msgstr ""
+
+#. ACCOMPLISHMENT: Beginner Minesweeper ('t' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. You can learn the gameplay rules from Gnomine help.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add tips and best practise for accomplishing this trophy.
+#. NOTE: Put each tip on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/gnomine_win-small.c:55
+msgid "ubuntu-desktop/gnomine_win-small_tips"
+msgstr ""
+
+#. ACCOMPLISHMENT: Rookie Sudoku Player ('t' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Rookie Sudoku Player
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. A short description of the accomplishment.
+#. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
+#: ../accomplishments/ubuntu-desktop/sudoku_easy.c:11
+msgid "ubuntu-desktop/sudoku_easy_title"
+msgstr ""
+
+#. ACCOMPLISHMENT: Rookie Sudoku Player ('d' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Win an easy game of Sudoku
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a descriptive single-line summary of the accomplishment.
+#: ../accomplishments/ubuntu-desktop/sudoku_easy.c:20
+msgid "ubuntu-desktop/sudoku_easy_description"
+msgstr ""
+
+#. ACCOMPLISHMENT: Rookie Sudoku Player ('s' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. You can achieve this accomplishment by completing a game of Sudoku on the <b>easy</b> difficulty.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
+#. NOTE: Break this into paragraphs by putting each paragraph on a new line.
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/sudoku_easy.c:31
+msgid "ubuntu-desktop/sudoku_easy_summary"
+msgstr ""
+
+#. ACCOMPLISHMENT: Rookie Sudoku Player ('s' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Start Sudoku.
+#. Select an easy game.
+#. Fill out the squares until the whole board is completed.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a series of step-by-step instructions for how to accomplish this trophy.
+#. NOTE: Put each step on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/sudoku_easy.c:44
+msgid "ubuntu-desktop/sudoku_easy_steps"
+msgstr ""
+
+#. ACCOMPLISHMENT: Rookie Sudoku Player ('t' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. There's no time limit, so no need to rush.
+#. You can get extra help from sudoku's help menu (F1).
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add tips and best practise for accomplishing this trophy.
+#. NOTE: Put each tip on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/sudoku_easy.c:56
+msgid "ubuntu-desktop/sudoku_easy_tips"
+msgstr ""
+
+#. ACCOMPLISHMENT: Completed Mahjongg on Easy ('t' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Completed Mahjongg on Easy
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. A short description of the accomplishment.
+#. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
+#: ../accomplishments/ubuntu-desktop/mahjongg-easy.c:11
+msgid "ubuntu-desktop/mahjongg-easy_title"
+msgstr ""
+
+#. ACCOMPLISHMENT: Completed Mahjongg on Easy ('d' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. You have completed Mahjongg on Easy
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a descriptive single-line summary of the accomplishment.
+#: ../accomplishments/ubuntu-desktop/mahjongg-easy.c:20
+msgid "ubuntu-desktop/mahjongg-easy_description"
+msgstr ""
+
+#. ACCOMPLISHMENT: Completed Mahjongg on Easy ('s' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Mahjongg is a solitaire (one player) version of the classic Eastern tile game, Mahjongg. The objective is to select pairs of similar tiles.  To achieve this accomplishment all you need to do is to clear the grid on the Easy difficulty setting.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
+#. NOTE: Break this into paragraphs by putting each paragraph on a new line.
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/mahjongg-easy.c:31
+msgid "ubuntu-desktop/mahjongg-easy_summary"
+msgstr ""
+
+#. ACCOMPLISHMENT: Completed Mahjongg on Easy ('h' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. https://live.gnome.org/Mahjongg
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add related help resources (e.g. IRC channel names).
+#. NOTE: Put each help resource on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/mahjongg-easy.c:42
+msgid "ubuntu-desktop/mahjongg-easy_help"
+msgstr ""
+
+#. ACCOMPLISHMENT: Completed All Mahjongg Levels ('t' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Completed All Mahjongg Levels
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. A short description of the accomplishment.
+#. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
+#: ../accomplishments/ubuntu-desktop/mahjongg-master.c:11
+msgid "ubuntu-desktop/mahjongg-master_title"
+msgstr ""
+
+#. ACCOMPLISHMENT: Completed All Mahjongg Levels ('d' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. You have completed all Mahjongg levels
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a descriptive single-line summary of the accomplishment.
+#: ../accomplishments/ubuntu-desktop/mahjongg-master.c:20
+msgid "ubuntu-desktop/mahjongg-master_description"
+msgstr ""
+
+#. ACCOMPLISHMENT: Completed All Mahjongg Levels ('s' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Mahjongg is a solitaire (one player) version of the classic Eastern tile game, Mahjongg. The objective is to select pairs of similar tiles.  To achieve this accomplishment all you need to do is to clear the grid on all levels.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
+#. NOTE: Break this into paragraphs by putting each paragraph on a new line.
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/mahjongg-master.c:31
+msgid "ubuntu-desktop/mahjongg-master_summary"
+msgstr ""
+
+#. ACCOMPLISHMENT: Completed All Mahjongg Levels ('h' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. https://live.gnome.org/Mahjongg
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add related help resources (e.g. IRC channel names).
+#. NOTE: Put each help resource on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/mahjongg-master.c:42
+msgid "ubuntu-desktop/mahjongg-master_help"
+msgstr ""
+
+#. ACCOMPLISHMENT: Created a LibreOffice Document ('t' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Created a LibreOffice Document
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. A short description of the accomplishment.
+#. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
+#: ../accomplishments/ubuntu-desktop/libreoffice-create-document.c:11
+msgid "ubuntu-desktop/libreoffice-create-document_title"
+msgstr ""
+
+#. ACCOMPLISHMENT: Created a LibreOffice Document ('d' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. You have created a LibreOffice document
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a descriptive single-line summary of the accomplishment.
+#: ../accomplishments/ubuntu-desktop/libreoffice-create-document.c:20
+msgid "ubuntu-desktop/libreoffice-create-document_description"
+msgstr ""
+
+#. ACCOMPLISHMENT: Created a LibreOffice Document ('s' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. LibreOffice is a powerful suite that provides six feature-rich office applications: Writer (word-processor), Calc (spreadsheet), Impress (presentation software), Draw (graphics editor), Math (math formulae) and Base (database management). Try each of them out to see what's available and how it can help you.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
+#. NOTE: Break this into paragraphs by putting each paragraph on a new line.
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/libreoffice-create-document.c:31
+msgid "ubuntu-desktop/libreoffice-create-document_summary"
+msgstr ""
+
+#. ACCOMPLISHMENT: Created a LibreOffice Document ('s' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Open either LibreOffice, Writer, Calc or Impress from the Launcher
+#. Create a document/spreadsheet/presentation and save it in your Documents folder
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a series of step-by-step instructions for how to accomplish this trophy.
+#. NOTE: Put each step on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/libreoffice-create-document.c:43
+msgid "ubuntu-desktop/libreoffice-create-document_steps"
+msgstr ""
+
+#. ACCOMPLISHMENT: Created a LibreOffice Document ('h' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. https://wiki.ubuntu.com/LibreOffice
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add related help resources (e.g. IRC channel names).
+#. NOTE: Put each help resource on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/libreoffice-create-document.c:54
+msgid "ubuntu-desktop/libreoffice-create-document_help"
+msgstr ""
+
+#. ACCOMPLISHMENT: Created a LibreOffice Document ('l' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. https://wiki.ubuntu.com/LibreOffice
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add related web addresses (don't include a HTML link).
+#. NOTE: Put each URL on a new line
+#: ../accomplishments/ubuntu-desktop/libreoffice-create-document.c:64
+msgid "ubuntu-desktop/libreoffice-create-document_links"
+msgstr ""
+
+#. ACCOMPLISHMENT: Added Photos ('t' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Added Photos
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. A short description of the accomplishment.
+#. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
+#: ../accomplishments/ubuntu-desktop/multimedia-added-photos.c:11
+msgid "ubuntu-desktop/multimedia-added-photos_title"
+msgstr ""
+
+#. ACCOMPLISHMENT: Added Photos ('d' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. You have added photos to your computer
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a descriptive single-line summary of the accomplishment.
+#: ../accomplishments/ubuntu-desktop/multimedia-added-photos.c:20
+msgid "ubuntu-desktop/multimedia-added-photos_description"
+msgstr ""
+
+#. ACCOMPLISHMENT: Added Photos ('s' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Ubuntu has many great applications to help you edit and manage your photos, but the first step is adding photos to your computer. When you add images to your <i>pictures folder</i> you will earn this accomplishment.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
+#. NOTE: Break this into paragraphs by putting each paragraph on a new line.
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/multimedia-added-photos.c:31
+msgid "ubuntu-desktop/multimedia-added-photos_summary"
+msgstr ""
+
+#. ACCOMPLISHMENT: Added Music ('t' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Added Music
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. A short description of the accomplishment.
+#. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
+#: ../accomplishments/ubuntu-desktop/multimedia-added-music.c:11
+msgid "ubuntu-desktop/multimedia-added-music_title"
+msgstr ""
+
+#. ACCOMPLISHMENT: Added Music ('d' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. You have added music to your computer
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a descriptive single-line summary of the accomplishment.
+#: ../accomplishments/ubuntu-desktop/multimedia-added-music.c:20
+msgid "ubuntu-desktop/multimedia-added-music_description"
+msgstr ""
+
+#. ACCOMPLISHMENT: Added Music ('s' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. There lots of different types of music you can
+#. <ul><li>Select the Extract button on the menu bar; or</li>
+#. <li>Right click on the CD's name, and select Extract to Library</li></ul>
+#. The CD's track names and other basic information should be automatically entered if there is an Internet connection present. If the track information is not automatically entered, manually enter the information by selecting the desired track or tracks, then right click and select Properties. Enter the desired information, then select Close.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
+#. NOTE: Break this into paragraphs by putting each paragraph on a new line.
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/multimedia-added-music.c:34
+msgid "ubuntu-desktop/multimedia-added-music_summary"
+msgstr ""
+
+#. ACCOMPLISHMENT: Added Music ('h' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. https://help.ubuntu.com/community/Rhythmbox
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add related help resources (e.g. IRC channel names).
+#. NOTE: Put each help resource on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/multimedia-added-music.c:45
+msgid "ubuntu-desktop/multimedia-added-music_help"
+msgstr ""
+
+#. ACCOMPLISHMENT: Used Rhythmbox ('t' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Used Rhythmbox
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. A short description of the accomplishment.
+#. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
+#: ../accomplishments/ubuntu-desktop/musicinrhythmbox.c:11
+msgid "ubuntu-desktop/musicinrhythmbox_title"
+msgstr ""
+
+#. ACCOMPLISHMENT: Used Rhythmbox ('d' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. You have used Rhythmbox.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a descriptive single-line summary of the accomplishment.
+#: ../accomplishments/ubuntu-desktop/musicinrhythmbox.c:20
+msgid "ubuntu-desktop/musicinrhythmbox_description"
+msgstr ""
+
+#. ACCOMPLISHMENT: Used Rhythmbox ('s' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Rhythmbox is a music player in Ubuntu. You can use it to play music from local or shared music stores, or on-line stream radios.
+#. This accomplishment is awarded when you have <b>added music</b> to your Rhythmbox library
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
+#. NOTE: Break this into paragraphs by putting each paragraph on a new line.
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/musicinrhythmbox.c:32
+msgid "ubuntu-desktop/musicinrhythmbox_summary"
+msgstr ""
+
+#. ACCOMPLISHMENT: Used Rhythmbox ('s' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Click the <i>Dash Home</i>
+#. Enter <i>Rhythmbox</i>
+#. You will be presented with the Rhythmbox application
+#. Click the <i>Rhythmbox</i> icon
+#. Right click the 'music' entry under library and choose 'import file...' for a single song or 'import folder...' for a folder of music
+#. Navigate to the folder or song desired
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a series of step-by-step instructions for how to accomplish this trophy.
+#. NOTE: Put each step on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/musicinrhythmbox.c:48
+msgid "ubuntu-desktop/musicinrhythmbox_steps"
+msgstr ""
+
+#. ACCOMPLISHMENT: Used Rhythmbox ('t' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. You can even buy music through Rhythmbox
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add tips and best practise for accomplishing this trophy.
+#. NOTE: Put each tip on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/musicinrhythmbox.c:59
+msgid "ubuntu-desktop/musicinrhythmbox_tips"
+msgstr ""
+
+#. ACCOMPLISHMENT: Used Rhythmbox ('p' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Using a network share could result in Rhythmbox reporting that you have missing files if you have not mounted the share prior to launching Rhythmbox.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add things the user should not do when working to accomplish this trophy.
+#. NOTE: Put each pitfall on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/musicinrhythmbox.c:70
+msgid "ubuntu-desktop/musicinrhythmbox_pitfalls"
+msgstr ""
+
+#. ACCOMPLISHMENT: Used Rhythmbox ('h' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Click the <i>Help</i> menu.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add related help resources (e.g. IRC channel names).
+#. NOTE: Put each help resource on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/musicinrhythmbox.c:81
+msgid "ubuntu-desktop/musicinrhythmbox_help"
+msgstr ""
+
+#. ACCOMPLISHMENT: Import To Shotwell ('t' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Import To Shotwell
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. A short description of the accomplishment.
+#. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
+#: ../accomplishments/ubuntu-desktop/importshotwell.c:11
+msgid "ubuntu-desktop/importshotwell_title"
+msgstr ""
+
+#. ACCOMPLISHMENT: Import To Shotwell ('d' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Import photos/videos into Shotwell Photo Manager
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a descriptive single-line summary of the accomplishment.
+#: ../accomplishments/ubuntu-desktop/importshotwell.c:20
+msgid "ubuntu-desktop/importshotwell_description"
+msgstr ""
+
+#. ACCOMPLISHMENT: Import To Shotwell ('s' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Shotwell Photo Manager allows you to import, organize, view and edit images
+#. This accomplishment is awarded when you <b>import photos or videos</b> into your Shotwell library
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
+#. NOTE: Break this into paragraphs by putting each paragraph on a new line.
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/importshotwell.c:32
+msgid "ubuntu-desktop/importshotwell_summary"
+msgstr ""
+
+#. ACCOMPLISHMENT: Import To Shotwell ('s' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Click the <i>Dash Home</i>
+#. Enter <i>Shotwell Photo Manager</i>
+#. You will be presented with the Shotwell application icon. Click on it.
+#. To import, you can: <ul><li>Drag and drop a folder/file onto the application; or</li><li> Go to <b>File</b> and choose <b>Import from folder...</b>; Select the folder you want to import and press <b>OK</b></li></ul>
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a series of step-by-step instructions for how to accomplish this trophy.
+#. NOTE: Put each step on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/importshotwell.c:46
+msgid "ubuntu-desktop/importshotwell_steps"
+msgstr ""
+
+#. ACCOMPLISHMENT: Import To Shotwell ('t' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Shotwell supports JPEG, PNG, TIFF, BMP, and RAW photo files. It even supports video files!
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add tips and best practise for accomplishing this trophy.
+#. NOTE: Put each tip on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/importshotwell.c:57
+msgid "ubuntu-desktop/importshotwell_tips"
+msgstr ""
+
+#. ACCOMPLISHMENT: Import To Shotwell ('p' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Shotwell does not support GIF images.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add things the user should not do when working to accomplish this trophy.
+#. NOTE: Put each pitfall on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-desktop/importshotwell.c:68
+msgid "ubuntu-desktop/importshotwell_pitfalls"
+msgstr ""
+
+#. ACCOMPLISHMENT: Import To Shotwell ('l' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. http://yorba.org/shotwell/help/
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add related web addresses (don't include a HTML link).
+#. NOTE: Put each URL on a new line
+#: ../accomplishments/ubuntu-desktop/importshotwell.c:78
+msgid "ubuntu-desktop/importshotwell_links"
+msgstr ""

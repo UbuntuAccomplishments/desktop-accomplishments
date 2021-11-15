@@ -1,0 +1,12 @@
+{
+  "title": "Практиковал разминирование",
+  "description": "Разберите маленькое поле в Gnomine 10 раз",
+  "collection": "ubuntu-desktop",
+  "category": "Games:Gnomine",
+  "icon": "gnomine.png",
+  "depends": "ubuntu-desktop/gnomine_win-small",
+  "author": "Rafał Cieślak <rafalcieslak256@ubuntu.com>",
+  "summary": "Вы можете получить это достижение, разобрав маленькое поле в Gnomine 10 раз.\nПодтвердите свои навыки сапёра!",
+  "steps": "Запустите Gnomine.\nВыберите поле 8x8 (маленькое).\nНайдите все скрытые мины!\nПовторите 10 раз.",
+  "tips": "Вы можете узнать правила игры из справки Gnomine.\nЭто достижение не должно занять много времени. Это просто!"
+}

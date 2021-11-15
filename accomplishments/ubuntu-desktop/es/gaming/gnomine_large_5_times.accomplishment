@@ -1,0 +1,12 @@
+{
+  "title": "Desminado impresionante",
+  "description": "Terminar una partida de Gnomine grande 5 veces",
+  "collection": "ubuntu-desktop",
+  "category": "Games:Gnomine",
+  "icon": "gnomine.png",
+  "depends": "ubuntu-desktop/gnomine_win-large",
+  "author": "Rafał Cieślak <rafalcieslak256@ubuntu.com>",
+  "summary": "Puede conseguir este logro terminando una partida de Gnomine grande 5 veces.",
+  "steps": "Iniciar Gnomine.\nElegir juego de 30x16 (grande).\nEncontrar todas las minas.\nRepetir 5 veces.",
+  "tips": "Puede llevar algún tiempo lograr esto.\nNo hay necesidad de darse prisa. El tiempo no importa, así que elija sabiamente sus movimientos.\nEste logro realmente es para expertos."
+}

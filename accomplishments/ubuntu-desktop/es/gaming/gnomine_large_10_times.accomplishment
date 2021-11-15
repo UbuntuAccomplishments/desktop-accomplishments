@@ -1,0 +1,12 @@
+{
+  "title": "Limpiador de minas veterano",
+  "description": "Ganar una partida de Gnomine grande 10 veces.",
+  "collection": "ubuntu-desktop",
+  "category": "Games:Gnomine",
+  "icon": "gnomine.png",
+  "depends": "ubuntu-desktop/gnomine_large_5_times",
+  "author": "Rafał Cieślak <rafalcieslak256@ubuntu.com>",
+  "summary": "Puede conseguir este logro terminando una partida de Gnomine grande 10 veces.",
+  "steps": "Iniciar Gnomine.\nElegir juego de 30x16 (grande).\nEncontrar todas las minas.\nRepetir 10 veces.",
+  "tips": "It can take some time to accomplish this one.\nNo need to hurry! Time does not matter, so choose your moves wisely.\nThis accomplishment is for real experts."
+}

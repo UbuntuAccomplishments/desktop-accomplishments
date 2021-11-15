@@ -1,0 +1,11 @@
+{
+  "title": "Sudoku Master",
+  "description": "Win very hard a game of Sudoku",
+  "collection": "ubuntu-desktop",
+  "category": "Games:Sudoku",
+  "icon": "default.png",
+  "summary": "You can achieve this accomplishment by completing a game of Sudoku in the <b>very hard</b> difficulty.",
+  "steps": "Start Sudoku.\nSelect a very hard game.\nFill out the squares until the whole board is completed.",
+  "tips": "There's no time limit, so no need to rush.\nYou can get extra help from sudoku's help menu (F1).",
+  "author": "Tony Vec <tvec623@gmail.com>"
+}

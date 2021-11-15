@@ -1,0 +1,10 @@
+{
+  "title": "Wysłano dane do Usługi Osiągnięć Ubuntu",
+  "description": "Dodałeś muzykę do swojego komputera",
+  "category": "Accessories:Accomplishments",
+  "icon": "default.png",
+  "author": "s.fox <silver-fox@ubuntu.com>",
+  "summary": "Wiele różnych możliwości, które są dostępne w <i>Ubuntu Accomplishments  </ i> ma wymagania",
+  "steps": "Authorize your Ubuntu One account in the Accomplishments Viewer.",
+  "help": "https://help.ubuntu.com/community/Rhythmbox"
+}

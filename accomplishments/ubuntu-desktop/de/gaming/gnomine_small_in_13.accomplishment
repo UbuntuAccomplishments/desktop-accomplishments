@@ -1,0 +1,12 @@
+{
+  "title": "I'm Too Quick to Miss the Mines",
+  "description": "Gewinnen Sie ein kleines Spiel Minen in unter 13 Sekunden",
+  "collection": "ubuntu-desktop",
+  "category": "Games:Gnomine",
+  "icon": "gnomine.png",
+  "depends": "ubuntu-desktop/gnomine_small_in_20",
+  "author": "Rafał Cieślak <rafalcieslak256@ubuntu.com>",
+  "summary": "Um diese Trophäe zu erhalten, absolvieren Sie ein kleines Spiel Minen in unter 13 Sekunden.",
+  "steps": "Starten Sie Minen.\nWählen Sie ein 8x8 Spiel\nFinden Sie alle versteckten Minen so schnell wie möglich!\nAbsolvieren Sie das Spiel in unter 13 Sekunden!",
+  "tips": "Übung, Übung, Übung. Wenn Sie nicht schnell genug sind, verbessern Sie Ihre Fähigkeiten indem Sie viel üben.\nSpielen Sie in einem Fenster, dass so klein wie möglich ist, damit sie die Maus weniger bewegen müssen.\nWenn es darum geht, die Minen schnell zu finden bleibt nicht viel Zeit zum überlegen. Machen Sie sofort einen Spielzug, wenn Sie zu lange nachgedacht haben, starten Sie einfach ein neues Spiel.\nSeien sie geduldig und werden Sie nicht nervös! Mit viel Übung ist es nicht allzu schwierig diese Errugenschaft zu erhalten."
+}

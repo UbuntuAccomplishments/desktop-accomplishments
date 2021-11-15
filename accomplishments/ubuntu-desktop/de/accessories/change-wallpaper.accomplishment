@@ -1,0 +1,11 @@
+{
+  "title": "Bildschirmhintergrund ändern",
+  "description": "Sie haben den Bildschirmhintergrund geändert",
+  "collection": "ubuntu-desktop",
+  "category": "Accessories:System Settings",
+  "icon": "default.png",
+  "author": "s.fox <silver-fox@ubuntu.com>",
+  "summary": "Sie erhalten diese Errungenschaft wenn sie den Bildschirmhintergrund ändern",
+  "steps": "Klicken Sie auf <i>Dash-Startseite</>\nGeben Sie Systemeinstellungen ein\nEs wird Ihnen die Systemeinstellungen Anwendung angezeigt\nKlicken Sie das <i>Systemeinstellungen</>Symbol\nKlicken Sie auf Darstellung\n<i>Wählen</i>  Sie ein neues Hintergrundbild",
+  "tips": "Sie können die Positionierung und Hintergrundfarbe ändern"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Installed Ubuntu on a Nexus7",
+  "description": "You have installed Ubuntu on a Nexus7",
+  "collection": "ubuntu-desktop",
+  "category": "General",
+  "icon": "nexus7.png",
+  "author": "Matt Fischer <matthew.fischer@ubuntu.com>",
+  "summary": "Ubuntu Core is now installable on the Nexus7 tablet. The goal of this image is to get Ubuntu core working great on an inexpensive and ubiquitous tablet device. The focus is to fix things in Ubuntu Core that will make Ubuntu run great on any device. By improving things like CPU/memory usage, touch and gestures, and fixing bugs, we can ensure that Ubuntu runs leaner, faster, and with a better interface on any tablet, desktop, or laptop. The Ubuntu Core on Nexus7 could use your help at any level: hacking, testing, benchmarking, bug triage, developing, fixing bugs, improving performance, etc.",
+  "steps": "Purchase a Nexus7, the 8G, 16G, and 32G tablets are all supported.\nRead through some of the questions <a href=\"http://askubuntu.com/questions/tagged/mobile\">tagged as Mobile on AskUbuntu</a> as we've migrated the FAQ to there.\nFollow the <a href=\"https://wiki.ubuntu.com/Nexus7/Installation\">installation directions</a> in the Ubuntu wiki.",
+  "tips": "Join #ubuntu-arm to ask questions or discuss Ubuntu Core on Nexus7",
+  "pitfalls": "Installing Ubuntu on your Nexus7 will wipe all data from the device, although you can re-install Android quite easily, you need to back-up any pictures, emails, etc, that you want to save before installing Ubuntu.",
+  "help": "#ubuntu-arm on Freenode"
+}

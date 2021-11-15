@@ -1,0 +1,10 @@
+{
+  "title": "Поделился со службой достижений",
+  "description": "Вы добавили музыку на свой компьютер",
+  "category": "Accessories:Accomplishments",
+  "icon": "default.png",
+  "author": "s.fox <silver-fox@ubuntu.com>",
+  "summary": "Многие из возможностей, доступных в <i>Ubuntu Accomplishments</i>, требуют",
+  "steps": "Authorize your Ubuntu One account in the Accomplishments Viewer.",
+  "help": "https://help.ubuntu.com/community/Rhythmbox"
+}

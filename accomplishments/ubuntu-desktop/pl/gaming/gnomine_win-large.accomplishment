@@ -1,0 +1,11 @@
+{
+  "title": "Saper Ekspert",
+  "description": "Wygraj dużą grę Miny",
+  "collection": "ubuntu-desktop",
+  "category": "Games:Gnomine",
+  "icon": "gnomine.png",
+  "author": "Rafał Cieślak <rafalcieslak256@ubuntu.com>",
+  "summary": "Możesz zdobyć te osiągnięcie przez ukończenie dużej gry Miny",
+  "steps": "Rozpocznij grę Miny.\nWybierz 30x16 (duży) grę.\nZnajdź wszystkie ukryte miny!",
+  "tips": "Możesz nauczyć się zasad rozgrywki z Miny pomoc.\nJeśli znalezienie min jest dla ciebie trudne, spróbuj ćwiczyć na mniejszym obszarze.\nTen poziom jest zazwyczaj niemożliwy do skończenia jeśli ma się pecha. Bądź cierpliwy, prędzej czy później, będzie do przejścia!"
+}

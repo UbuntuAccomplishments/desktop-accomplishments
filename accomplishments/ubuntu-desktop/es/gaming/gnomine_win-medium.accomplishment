@@ -1,0 +1,11 @@
+{
+  "title": "Desminado avanzado",
+  "description": "Ganar en un juego de Gnomine medio",
+  "collection": "ubuntu-desktop",
+  "category": "Games:Gnomine",
+  "icon": "gnomine.png",
+  "author": "Rafał Cieślak <rafalcieslak256@ubuntu.com>",
+  "summary": "Puede conseguir este logro terminando una partida de Gnomine medio.",
+  "steps": "Iniciar Gnomine.\nElegir juego de 16x16 (medio).\nEncontrar todas las minas.",
+  "tips": "You can learn the gameplay rules from Gnomine help.\nIf finding mines is to hard for you, try practising on a smaller field."
+}

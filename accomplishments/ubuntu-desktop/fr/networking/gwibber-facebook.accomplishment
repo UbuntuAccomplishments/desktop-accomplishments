@@ -1,0 +1,12 @@
+{
+  "title": "Gwibber - Added Facebook",
+  "description": "Vous avez ajouté votre compte Facebook à Gwibber",
+  "collection": "ubuntu-desktop",
+  "category": "Networking:Gwibber",
+  "icon": "facebook.png",
+  "author": "s.fox <silver-fox@ubuntu.com>",
+  "summary": "Gwibber is the social media client built into Ubuntu Desktop. It is capable of viewing and posting status updates on popular microblogging and social sites such as Twitter, Facebook and Identi.ca\nThis accomplishment is awarded when you have authorised your <b>Facebook</b> account with Gwibber",
+  "steps": "Click the <i>Dash Home</i>\nEnter <i>Gwibber</i>\nYou will be presented with the Gwibber application\nClick the <i>Gwibber</i> icon\nIn the menu navigate to <b>Edit</b> <b>Accounts</b>\nClick the + button\nSelect Facebook and then click the Add button\nClick Authorise\nEnter your Facebook details and click 'Log In'",
+  "tips": "You can add several Facebook accounts to gwibber",
+  "help": "https://wiki.ubuntu.com/Gwibber\nhttp://live.gnome.org/Gwibber"
+}

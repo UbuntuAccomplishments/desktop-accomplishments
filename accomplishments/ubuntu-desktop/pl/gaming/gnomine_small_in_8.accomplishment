@@ -1,0 +1,12 @@
+{
+  "title": "Wojna błyskawiczna",
+  "description": "Wygraj małą grę Gnomine w mniej niż 8 sekund.",
+  "collection": "ubuntu-desktop",
+  "category": "Games:Gnomine",
+  "icon": "gnomine.png",
+  "depends": "ubuntu-desktop/gnomine_small_in_13",
+  "author": "Rafał Cieślak <rafalcieslak256@ubuntu.com>",
+  "summary": "Żeby wygrać, ukończ małą grę Gnomine poniżej 8 sekund.",
+  "steps": "Uruchom Gnomine.\nWybierz 8x8 (mała) grę.\nZnajdź wszystkie ukryte miny najszybciej jak potrafisz !\nPamiętaj aby ukończyć poniżej 8 sekund !",
+  "tips": "To Osiągnięcie wymaga wielu ćwiczeń.\nGraj w jak najmniejszym możliwym oknie, po to aby wykonywać jak najmniej ruchów myszką.\nKiedy chodzi o jak najszybsze wykrycie min, nie ma czasu na myślenie. Wykonuj ruchy natychmiast, jeżeli zbyt długo się zastanawiałeś, zacznij grę od nowa. \nNie jest możliwe ukończenie gry w 8 sekund, jeżeli masz dużą ilości pól do odkrycia. Zignoruj trudne otwarcia i skup się na tych, gdzie pierwsze kliknięcie otworzy połowę planszy."
+}

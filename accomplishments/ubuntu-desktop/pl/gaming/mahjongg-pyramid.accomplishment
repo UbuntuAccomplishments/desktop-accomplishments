@@ -1,0 +1,10 @@
+{
+  "title": "Ukończony poziom Mahjongg - Ściany Piramidy",
+  "description": "Ukończyłeś poziom Mahjongg - Ściany Piramidy",
+  "collection": "ubuntu-desktop",
+  "category": "Games:Mahjongg",
+  "icon": "mahjongg.png",
+  "author": "s.fox <silver-fox@ubuntu.com>",
+  "summary": "Mahjongg jest wersją klasycznej, wschodniej gry z płytek dla jednego gracza, Madżong. Celem jest wyłonienie par podobnych płytek. To osiągnięcie otrzymasz jeśli usuniesz wszystkie płytki z poziomu Ściany Piramidy",
+  "help": "https://live.gnome.org/Mahjongg"
+}

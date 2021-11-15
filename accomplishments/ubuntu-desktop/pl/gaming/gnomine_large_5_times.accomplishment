@@ -1,0 +1,12 @@
+{
+  "title": "Imponujące Rozminowywanie",
+  "description": "Wygraj w dużej grze Miny 5 razy",
+  "collection": "ubuntu-desktop",
+  "category": "Games:Gnomine",
+  "icon": "gnomine.png",
+  "depends": "ubuntu-desktop/gnomine_win-large",
+  "author": "Rafał Cieślak <rafalcieslak256@ubuntu.com>",
+  "summary": "Możesz zdobyć te osiągnięcie jeśli ukończysz trudną grę Miny 5 razy",
+  "steps": "Rozpocznij grę Miny.\nWybierz 30x16 (duży) grę.\nOdnajdź wszystkie ukryte miny!\nPowtórz 5 razy.",
+  "tips": "To może zająć trochę czasu, aby zdobyć te osiągnięcie.\nNie trzeba się spieszyć! Czas nie ma znaczenia, więc wybieraj swoje ruchy mądrze.\nTo osiągnięcie jest dla prawdziwych ekspertów."
+}

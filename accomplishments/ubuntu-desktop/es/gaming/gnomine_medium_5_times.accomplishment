@@ -1,0 +1,12 @@
+{
+  "title": "Perfecta limpieza de minas",
+  "description": "Ganar en un Gnomine medio 5 veces",
+  "collection": "ubuntu-desktop",
+  "category": "Games:Gnomine",
+  "icon": "gnomine.png",
+  "depends": "ubuntu-desktop/gnomine_win-medium",
+  "author": "Rafał Cieślak <rafalcieslak256@ubuntu.com>",
+  "summary": "Puede conseguir este logro terminando una partida de Gnomine medio 5 veces.",
+  "steps": "Iniciar Gnomine.\nElegir juego de 16x16 (medio).\nEncontrar todas las minas.\nRepetir 5 veces.",
+  "tips": "Puede llevar algún tiempo lograr esto.\nNo hay necesidad de darse prisa. El tiempo no importa, así que elija sabiamente sus movimientos."
+}

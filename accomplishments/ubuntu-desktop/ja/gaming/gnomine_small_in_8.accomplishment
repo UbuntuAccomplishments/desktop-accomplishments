@@ -1,0 +1,12 @@
+{
+  "title": "電撃戦",
+  "description": "Gnomineを8秒以内にクリアする。",
+  "collection": "ubuntu-desktop",
+  "category": "Games:Gnomine",
+  "icon": "gnomine.png",
+  "depends": "ubuntu-desktop/gnomine_small_in_13",
+  "author": "Rafał Cieślak <rafalcieslak256@ubuntu.com>",
+  "summary": "このトロフィーを獲得するためには、8秒以内にGnomineをクリアする必要があります。",
+  "steps": "Gnomineをスタートしましょう。\n8x8 (small) gameを選択してください。\nできるだけ早く隠れた地雷を見つけだしましょう！\n8秒以内にクリアしましょう！",
+  "tips": "このaccomplishmentを達成するには練習が必要になるでしょう。\nマウスの動きを効率化させるために、ウィンドウをできるだけ小さくしましょう。\n素早くクリアするには考えている時間はありません。マウスを素早く動かし、もし考え込んでしまった時は、リセットしましょう。ほとんどのフィールドは8秒では解ききれません。難しい組み合わせの時は無視して、最初のクリックでフィールドの半分くらいが開くような時だけ頑張るのも「手」かもしれません。"
+}

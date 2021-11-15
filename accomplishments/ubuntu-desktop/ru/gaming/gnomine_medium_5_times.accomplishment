@@ -1,0 +1,12 @@
+{
+  "title": "Превосходная очистка",
+  "description": "Разберите среднее поле в Gnomine 5 раз",
+  "collection": "ubuntu-desktop",
+  "category": "Games:Gnomine",
+  "icon": "gnomine.png",
+  "depends": "ubuntu-desktop/gnomine_win-medium",
+  "author": "Rafał Cieślak <rafalcieslak256@ubuntu.com>",
+  "summary": "Вы можете получить это достижение, разобрав среднее поле в Gnomine 5 раз.",
+  "steps": "Запустите Gnomine.\nВыберите поле 16x16 (среднее).\nНайдите все скрытые мины!\nПовторите 5 раз.",
+  "tips": "Может понадобиться некоторое время, чтобы получить это достижение.\nНе торопитесь! Время не имеет значения, так что выбирайте ходы с умом."
+}
