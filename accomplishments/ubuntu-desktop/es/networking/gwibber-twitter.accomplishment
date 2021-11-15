@@ -8,5 +8,5 @@
   "summary": "Gwibber es un cliente de redes sociales del escritorio de Ubuntu. Es capaz de ver y publicar las actualizaciones de estado de sitios populares de microblogging y redes sociales como Twitter, Facebook e Identi.ca\nEste logro premia que ha autorizado su cuenta de <b>Twitter</b> en Gwibber",
   "steps": "Click the <i>Dash Home</i>\nEnter <i>Gwibber</i>\nYou will be presented with the Gwibber application\nClick the <i>Gwibber</i> icon\nIn the menu navigate to <b>Edit</b> <b>Accounts</b>\nClick the + button\nSelect twitter and then click the Add button\nClick Authorise\nEnter your twitter details and click 'Authorize App'",
   "tips": "Puede añadir distintas cuentas de Twitter a Gwibber",
-  "help": "https://wiki.ubuntu.com/Gwibber\nhttp://live.gnome.org/Gwibber"
+  "help": "https://wiki.ubuntu.com/Gwibber\nhttps://live.gnome.org/Gwibber"
 }

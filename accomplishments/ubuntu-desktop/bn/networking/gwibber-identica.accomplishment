@@ -8,5 +8,5 @@
   "summary": "Gwibber হল সামাজিক মিডিয়া ক্লায়েন্ট যা উবুন্টু ডেস্কটপে অন্তর্ভূক্ত. এটি জনপ্রিয় মাইক্রোব্লগিং এবং সামাজিক সাইট যেমন টুইটার, ফেসবুক এবং Identi.ca তে স্ট্যাটাস আপডেটসমূহ পোস্টিং এবং প্রদর্শণ করতে সক্ষম. এই নিষ্পাদন পুরস্কৃত করা হয় যখন আপনি Gwibber-এর সঙ্গে আপনার <b>identi.ca</b> একাউন্ট অনুমোদন করবেন .",
   "steps": "<i>Dash Home</ i> এ ক্লিক করুন <i>Gwibber</ i> এ প্রবেশ করুন আপনাকে Gwibber আবেদন পত্র উপস্থাপন করা হবে <i>Gwibber</ i> আইকনে ক্লিক করুন মেনুতে <b>Edit</ b> <b>Accounts</ b> ন্যাভিগেট করুন + বাটনে ক্লিক করুন ident.ca নির্বাচন করে Add বাটন ক্লিক করুন Authorise এ ক্লিক করুন আপনার ident.ca এর বিস্তারিত লিখুন এবং 'Allow' তে ক্লিক করুন .",
   "tips": "আপনি gwibber-এ একাধিক indenti.ca অ্যাকাউন্ট যোগ করতে পারেন .",
-  "help": "https://wiki.ubuntu.com/Gwibber http://live.gnome.org/Gwibber ."
+  "help": "https://wiki.ubuntu.com/Gwibber https://live.gnome.org/Gwibber ."
 }

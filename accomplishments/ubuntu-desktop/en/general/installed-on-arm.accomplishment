@@ -8,7 +8,7 @@
   "steps": "Review the <a href=\"https://wiki.ubuntu.com/ARM\">Ubuntu ARM wikipage</a> to see what platforms and releases are supported.\nDownload an image.\nInstall Ubuntu on a system that has an ARM processor in it.",
   "tips": "Join #ubuntu-arm to participate in the Ubuntu on ARM community.",
   "pitfalls": "Ubuntu is not supported on every ARM platform or device, check the Ububtu ARM wikipage or ask on #ubuntu-arm if you are not sure what is supported.",
-  "links": "https://wiki.ubuntu.com/ARM\nhttp://www.ubuntu.com/download/desktop/alternative-downloads",
+  "links": "https://wiki.ubuntu.com/ARM\nhttps://www.ubuntu.com/download/desktop/alternative-downloads",
   "help": "#ubuntu-arm on LiberaChat",
   "author": "Matt Fischer <matthew.fischer@ubuntu.com>"
 }

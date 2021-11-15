@@ -8,5 +8,5 @@
   "summary": "Gwibber is the social media client built into Ubuntu Desktop. It is capable of viewing and posting status updates on popular microblogging and social sites such as Twitter, Facebook and Identi.ca\nThis accomplishment is awarded when you have authorised your <b>identi.ca</b> account with Gwibber",
   "steps": "Click the <i>Dash Home</i>\nEnter <i>Gwibber</i>\nYou will be presented with the Gwibber application\nClick the <i>Gwibber</i> icon\nIn the menu navigate to <b>Edit</b> <b>Accounts</b>\nClick the + button\nSelect ident.ca and then click the Add button\nClick Authorise\nEnter your identi.ca details and click 'Allow'",
   "tips": "You can add several indenti.ca accounts to gwibber",
-  "help": "https://wiki.ubuntu.com/Gwibber\nhttp://live.gnome.org/Gwibber"
+  "help": "https://wiki.ubuntu.com/Gwibber\nhttps://live.gnome.org/Gwibber"
 }

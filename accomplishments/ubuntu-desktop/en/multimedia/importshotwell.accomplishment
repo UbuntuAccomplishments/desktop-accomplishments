@@ -9,5 +9,5 @@
   "steps": "Click the <i>Dash Home</i>\nEnter <i>Shotwell Photo Manager</i>\nYou will be presented with the Shotwell application icon. Click on it.\nTo import, you can: <ul><li>Drag and drop a folder/file onto the application; or</li><li> Go to <b>File</b> and choose <b>Import from folder...</b>; Select the folder you want to import and press <b>OK</b></li></ul>",
   "tips": "Shotwell supports JPEG, PNG, TIFF, BMP, and RAW photo files. It even supports video files!",
   "pitfalls": "Shotwell does not support GIF images.",
-  "links": "http://yorba.org/shotwell/help/"
+  "links": "https://yorba.org/shotwell/help/"
 }
