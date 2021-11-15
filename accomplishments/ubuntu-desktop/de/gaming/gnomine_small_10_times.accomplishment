@@ -3,7 +3,7 @@
   "description": "Gewinnen Sie 10 mal ein kleines Spiel Minen",
   "collection": "ubuntu-desktop",
   "category": "Games:Gnomine",
-  "icon": "gnomine.png",
+  "icon": "gnomine.svg",
   "depends": "ubuntu-desktop/gnomine_win-small",
   "author": "Rafał Cieślak <rafalcieslak256@ubuntu.com>",
   "summary": "Sie können diese Errungenschaft erhalten indem Sie ein kleines Spiel Minen 10 mal absolvieren.\nBeweisen Sie, dass sie ein geübter Minensuchersind!",

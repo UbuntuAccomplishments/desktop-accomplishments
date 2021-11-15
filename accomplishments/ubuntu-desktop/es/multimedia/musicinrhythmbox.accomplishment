@@ -3,7 +3,7 @@
   "description": "Ha usado Rhythmbox.",
   "collection": "ubuntu-desktop",
   "category": "Multimedia",
-  "icon": "default.png",
+  "icon": "default.svg",
   "author": "Charles Profitt <cprofitt@ubuntu.com>",
   "summary": "Rhythmbox is a music player in Ubuntu. You can use it to play music from local or shared music stores, or on-line stream radios.\nThis accomplishment is awarded when you have <b>added music</b> to your Rhythmbox library",
   "steps": "Haga clic en el <i>Dash</i>\nIngresa <i>Rhythmbox</i>\nSe mostrará la aplicación Rhythmbox\nHaga clic en el icono de <i>Rhythmbox</i>\nHaga clic en 'música' Ingrese a biblioteca y seleccione 'importar un archivo...' para una sola canción o 'importar una carpeta...' para una carpeta de música\nNavegue a la carpeta o canción deseada",

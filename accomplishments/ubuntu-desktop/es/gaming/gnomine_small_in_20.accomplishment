@@ -3,7 +3,7 @@
   "description": "Ganar un juego de Gnomine en 20 segundos",
   "collection": "ubuntu-desktop",
   "category": "Games:Gnomine",
-  "icon": "gnomine.png",
+  "icon": "gnomine.svg",
   "depends": "ubuntu-desktop/gnomine_small_in_40",
   "author": "Rafał Cieślak <rafalcieslak256@ubuntu.com>",
   "summary": "Puede conseguir este trofeo, terminando una partida de Gnomine pequeña en menos de 20 segundos.",

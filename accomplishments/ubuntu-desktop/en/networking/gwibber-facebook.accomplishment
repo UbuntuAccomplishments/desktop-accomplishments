@@ -2,7 +2,7 @@
   "title": "Gwibber - Added Facebook",
   "description": "You have added your Facebook account to Gwibber",
   "category": "Networking:Gwibber",
-  "icon": "facebook.png",
+  "icon": "facebook.svg",
   "author": "s.fox <silver-fox@ubuntu.com>",
   "collection": "ubuntu-desktop",
   "summary": "Gwibber is the social media client built into Ubuntu Desktop. It is capable of viewing and posting status updates on popular microblogging and social sites such as Twitter, Facebook and Identi.ca\nThis accomplishment is awarded when you have authorised your <b>Facebook</b> account with Gwibber",

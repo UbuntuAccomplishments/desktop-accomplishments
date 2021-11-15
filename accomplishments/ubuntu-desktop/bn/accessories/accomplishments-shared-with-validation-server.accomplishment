@@ -2,7 +2,7 @@
   "title": "নিষ্পাদন পরিষেবার সাথে বিনিময় করা আছে\n.",
   "description": "আপনি আপনার কম্পিউটারে গান যোগ করেছেন\n.",
   "category": "Accessories:Accomplishments",
-  "icon": "default.png",
+  "icon": "default.svg",
   "author": "s.fox <silver-fox@ubuntu.com>",
   "summary": "<i>উবুন্টু নিষ্পাদন</i>  এ অনেক ভিন্ন্ রকম সুযোগ রয়েছে প্রয়োজন",
   "steps": "Authorize your Ubuntu One account in the Accomplishments Viewer.",

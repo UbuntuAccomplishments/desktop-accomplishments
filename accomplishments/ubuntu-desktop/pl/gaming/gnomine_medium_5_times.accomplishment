@@ -3,7 +3,7 @@
   "description": "Wygrać średnią grę Miny 5razy",
   "collection": "ubuntu-desktop",
   "category": "Games:Gnomine",
-  "icon": "gnomine.png",
+  "icon": "gnomine.svg",
   "depends": "ubuntu-desktop/gnomine_win-medium",
   "author": "Rafał Cieślak <rafalcieslak256@ubuntu.com>",
   "summary": "Możesz zdobyć te osiągnięcie  przez ukończenie średniej gry Miny 5razy",

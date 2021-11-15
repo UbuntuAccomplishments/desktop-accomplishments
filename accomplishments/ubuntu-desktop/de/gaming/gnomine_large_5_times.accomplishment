@@ -3,7 +3,7 @@
   "description": "Gewinnen Sie 5 mal ein großes Spiel Minen",
   "collection": "ubuntu-desktop",
   "category": "Games:Gnomine",
-  "icon": "gnomine.png",
+  "icon": "gnomine.svg",
   "depends": "ubuntu-desktop/gnomine_win-large",
   "author": "Rafał Cieślak <rafalcieslak256@ubuntu.com>",
   "summary": "Sie können diese Errungenschaft erhalten, indem Sie ein großes Spiel Minen 5 mal absolvieren.",

@@ -3,7 +3,7 @@
   "description": "Terminar una partida de Gnomine en 40 segundos",
   "collection": "ubuntu-desktop",
   "category": "Games:Gnomine",
-  "icon": "gnomine.png",
+  "icon": "gnomine.svg",
   "depends": "ubuntu-desktop/gnomine_win-small",
   "author": "Rafał Cieślak <rafalcieslak256@ubuntu.com>",
   "summary": "Para conseguir este trofeo, termine una partida de Gnomine pequeño en menos de 40 segundos.",

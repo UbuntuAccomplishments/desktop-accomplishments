@@ -3,7 +3,7 @@
   "description": "৪০ সেকেন্ডের মধ্যে একটি ক্ষুদ্র নোমিন খেলা জিতুন .",
   "collection": "ubuntu-desktop",
   "category": "Games:Gnomine",
-  "icon": "gnomine.png",
+  "icon": "gnomine.svg",
   "depends": "ubuntu-desktop/gnomine_win-small",
   "author": "Rafał Cieślak <rafalcieslak256@ubuntu.com>",
   "summary": "এই ট্রফি জয় করতে, ৪০ সেকেন্ডের মধ্যে একটি ক্ষুদ্র নোমিন খেলা শেষ করুন.",

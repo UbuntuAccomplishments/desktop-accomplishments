@@ -3,7 +3,7 @@
   "description": "Gewinnen Sie ein kleines Spiel Minen in unter 40 Sekunden",
   "collection": "ubuntu-desktop",
   "category": "Games:Gnomine",
-  "icon": "gnomine.png",
+  "icon": "gnomine.svg",
   "depends": "ubuntu-desktop/gnomine_win-small",
   "author": "Rafał Cieślak <rafalcieslak256@ubuntu.com>",
   "summary": "Um diese Trophäe zu erhalten, absolvieren Sie ein kleines Spiel Minen in unter 40 Sekunden",

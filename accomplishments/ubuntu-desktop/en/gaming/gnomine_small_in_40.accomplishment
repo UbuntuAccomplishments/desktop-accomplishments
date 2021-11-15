@@ -4,7 +4,7 @@
   "collection": "ubuntu-desktop",
   "category": "Games:Gnomine",
   "depends": "ubuntu-desktop/gnomine_win-small",
-  "icon": "gnomine.png",
+  "icon": "gnomine.svg",
   "summary": "To win this trophy, finish a Small Gnomine game under 40 seconds.",
   "steps": "Start Gnomine.\nChoose 8x8 (small) game.\nFind all hidden mines as fast as possible!\nBe sure to finish under 40 seconds!",
   "tips": "Practice, practice, practice. If you are not fast enough, be sure to improve your skills by practicing a lot.\nThis is a simple accomplishment. Unless you are a complete newcommer, you should manage it easily.",

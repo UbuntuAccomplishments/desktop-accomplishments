@@ -2,7 +2,7 @@
   "title": "Import To Shotwell",
   "description": "Import photos/videos into Shotwell Photo Manager",
   "category": "Multimedia",
-  "icon": "default.png",
+  "icon": "default.svg",
   "author": "Tony Vec <tvec623@gmail.com>",
   "collection": "ubuntu-desktop",
   "summary": "Shotwell Photo Manager allows you to import, organize, view and edit images\nThis accomplishment is awarded when you <b>import photos or videos</b> into your Shotwell library",

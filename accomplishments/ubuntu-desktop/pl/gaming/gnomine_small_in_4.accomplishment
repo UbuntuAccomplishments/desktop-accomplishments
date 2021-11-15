@@ -3,7 +3,7 @@
   "description": "Wygraj małą grę Miny w mniej niż 4 ( ! ) sekundy",
   "collection": "ubuntu-desktop",
   "category": "Games:Gnomine",
-  "icon": "gnomine.png",
+  "icon": "gnomine.svg",
   "depends": "ubuntu-desktop/gnomine_small_in_8",
   "author": "Rafał Cieślak <rafalcieslak256@ubuntu.com>",
   "summary": "Wygrasz te Trofeum kiedy ukończysz małą grę Miny poniżej 4 sekund.\nTak, to jest rzeczywiście możliwe, ale trzeba być bardzo wykwalifikowanych!\nChociaż wymaga sporo szczęścia, szalone umiejętności są również pomocne.",

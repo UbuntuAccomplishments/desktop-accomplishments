@@ -3,7 +3,7 @@
   "description": "Ganar Gnomine medio 10 veces",
   "collection": "ubuntu-desktop",
   "category": "Games:Gnomine",
-  "icon": "gnomine.png",
+  "icon": "gnomine.svg",
   "depends": "ubuntu-desktop/gnomine_medium_5_times",
   "author": "Rafał Cieślak <rafalcieslak256@ubuntu.com>",
   "summary": "Pude conseguir este logro terminando una partida de Gnomine de nivel medio 10 veces.",

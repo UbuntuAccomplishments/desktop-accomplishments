@@ -3,7 +3,7 @@
   "description": "Ganar en un Gnomine grande",
   "collection": "ubuntu-desktop",
   "category": "Games:Gnomine",
-  "icon": "gnomine.png",
+  "icon": "gnomine.svg",
   "author": "Rafał Cieślak <rafalcieslak256@ubuntu.com>",
   "summary": "Puede conseguir este logro terminando una partida de Gnomine grande .",
   "steps": "Iniciar Gnomine.\nElegir juego de 30X16 (grande).\nEncontrar todas las minas.",

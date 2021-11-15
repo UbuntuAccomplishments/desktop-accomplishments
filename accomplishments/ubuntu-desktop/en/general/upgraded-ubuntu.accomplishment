@@ -3,7 +3,7 @@
   "description": "You have upgraded an installed copy of Ubuntu",
   "collection": "ubuntu-desktop",
   "category": "General",
-  "icon": "default.png",
+  "icon": "default.svg",
   "summary": "A new release of Ubuntu is available every six months, in April and October, with a long-term support (LTS) release every two years.  Once you've installed Ubuntu, you can just upgrade it at every release instead of re-installing.  It's simple to do and you won't lose your data.",
   "steps": "Install Ubuntu.\nOnce a new release comes out, Launch the Update Manager.\nClick the <i>Check</i> but to check for new updates.  After checking for updates, click on <i>Upgrade</i>.\nRead the message about the new release and click <i>Upgrade</i> again.",
   "links": "http://www.ubuntu.com/download/desktop/upgrade",

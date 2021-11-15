@@ -3,7 +3,7 @@
   "description": "Вы прошли уровень «Четыре моста» в Mahjongg.",
   "collection": "ubuntu-desktop",
   "category": "Games:Mahjongg",
-  "icon": "mahjongg.png",
+  "icon": "mahjongg.svg",
   "author": "s.fox <silver-fox@ubuntu.com>",
   "summary": "Mahjongg — это версия классической восточной игры маджонг для одного игрока. Цель игры — выбрать все пары одинаковых костей. Чтобы получить это достижение, вам нужно очистить поле уровня «Четыре моста».",
   "help": "https://live.gnome.org/Mahjongg"

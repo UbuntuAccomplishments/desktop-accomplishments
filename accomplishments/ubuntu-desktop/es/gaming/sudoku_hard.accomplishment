@@ -3,7 +3,7 @@
   "description": "Win a hard game of Sudoku",
   "collection": "ubuntu-desktop",
   "category": "Games:Sudoku",
-  "icon": "default.png",
+  "icon": "default.svg",
   "author": "Tony Vec <tvec623@gmail.com>",
   "summary": "You can achieve this accomplishment by completing a game of Sudoku in the <b>hard</b> difficulty.",
   "steps": "Start Sudoku.\nSelect a hard game.\nFill out the squares until the whole board is completed.",

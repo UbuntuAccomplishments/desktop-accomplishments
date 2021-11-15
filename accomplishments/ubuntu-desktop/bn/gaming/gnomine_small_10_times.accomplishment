@@ -3,7 +3,7 @@
   "description": "একটি ক্ষুদ্র নোমিনের খেলা ১০ বার জিতুন .",
   "collection": "ubuntu-desktop",
   "category": "Games:Gnomine",
-  "icon": "gnomine.png",
+  "icon": "gnomine.svg",
   "depends": "ubuntu-desktop/gnomine_win-small",
   "author": "Rafał Cieślak <rafalcieslak256@ubuntu.com>",
   "summary": "আপনি নোমিনের একটি ক্ষুদ্র খেলা ১০ বার শেষ করেই এই নিষ্পাদন অর্জন করতে পারেন. প্রমাণ করুন আপনি একজন দক্ষ মাইন পরিষ্কারক! .",

@@ -3,7 +3,7 @@
   "description": "Win a Large Gnomine game 5 times",
   "collection": "ubuntu-desktop",
   "category": "Games:Gnomine",
-  "icon": "gnomine.png",
+  "icon": "gnomine.svg",
   "depends": "ubuntu-desktop/gnomine_win-large",
   "author": "Rafał Cieślak <rafalcieslak256@ubuntu.com>",
   "summary": "You can achieve this accomplishment by finishing a Large game in Gnomine 5 times.",

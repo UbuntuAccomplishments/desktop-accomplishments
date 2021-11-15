@@ -3,7 +3,7 @@
   "description": "Win a Medium Gnomine game",
   "collection": "ubuntu-desktop",
   "category": "Games:Gnomine",
-  "icon": "gnomine.png",
+  "icon": "gnomine.svg",
   "summary": "You can achieve this accomplishment by finishing a Medium game in Gnomine.",
   "steps": "Start Gnomine.\nChoose 16x16 (medium) game.\nFind all hidden mines!",
   "tips": "You can learn the gameplay rules from Gnomine help.\nIf finding mines is to hard for you, try practising on a smaller field.",

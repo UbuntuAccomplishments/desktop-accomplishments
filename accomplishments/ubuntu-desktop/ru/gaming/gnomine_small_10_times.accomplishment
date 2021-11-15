@@ -3,7 +3,7 @@
   "description": "Разберите маленькое поле в Gnomine 10 раз",
   "collection": "ubuntu-desktop",
   "category": "Games:Gnomine",
-  "icon": "gnomine.png",
+  "icon": "gnomine.svg",
   "depends": "ubuntu-desktop/gnomine_win-small",
   "author": "Rafał Cieślak <rafalcieslak256@ubuntu.com>",
   "summary": "Вы можете получить это достижение, разобрав маленькое поле в Gnomine 10 раз.\nПодтвердите свои навыки сапёра!",

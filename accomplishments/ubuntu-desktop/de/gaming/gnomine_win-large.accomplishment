@@ -3,7 +3,7 @@
   "description": "Gewinnen Sie ein großes Spiel Minen",
   "collection": "ubuntu-desktop",
   "category": "Games:Gnomine",
-  "icon": "gnomine.png",
+  "icon": "gnomine.svg",
   "author": "Rafał Cieślak <rafalcieslak256@ubuntu.com>",
   "summary": "Sie können diese Errugenschaft erhalten, indem Sie ein großes Spiel Minen absolvieren.",
   "steps": "Starten Sie Minen\nWählen Sie eun 30x16 Spiel\nFinden Sie alle versteckten Minen!",

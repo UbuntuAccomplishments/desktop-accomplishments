@@ -3,7 +3,7 @@
   "title": "Added Music",
   "description": "You have added music to your computer",
   "category": "Multimedia",
-  "icon": "default.png",
+  "icon": "default.svg",
   "summary": "There lots of different types of music you can\n<ul><li>Select the Extract button on the menu bar; or</li>\n<li>Right click on the CD's name, and select Extract to Library</li></ul>\nThe CD's track names and other basic information should be automatically entered if there is an Internet connection present. If the track information is not automatically entered, manually enter the information by selecting the desired track or tracks, then right click and select Properties. Enter the desired information, then select Close.",
   "help": "https://help.ubuntu.com/community/Rhythmbox",
   "author": "s.fox <silver-fox@ubuntu.com>"

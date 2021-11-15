@@ -3,7 +3,7 @@
   "description": "Sie haben alle Mahjongg-Levels absolviert",
   "collection": "ubuntu-desktop",
   "category": "Games:Mahjongg",
-  "icon": "mahjongg.png",
+  "icon": "mahjongg.svg",
   "author": "s.fox <silver-fox@ubuntu.com>",
   "summary": "Mahjongg ist eine Solitär (Einspieler) Version des klassischen östlichen Legespiels Mahjongg. Ziel ist es, gleiche Spielsteine ​​zu finden. Alles was Sie tun müssen, um diese Errungenschaft zu erhalten ist sämtliche Steinpaare in allen Levels zu entfernen.",
   "help": "https://live.gnome.org/Mahjongg"

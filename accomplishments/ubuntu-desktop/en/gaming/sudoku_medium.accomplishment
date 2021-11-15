@@ -3,7 +3,7 @@
   "description": "Win a medium game of Sudoku",
   "collection": "ubuntu-desktop",
   "category": "Games:Sudoku",
-  "icon": "default.png",
+  "icon": "default.svg",
   "summary": "You can achieve this accomplishment by completing a game of Sudoku on the <b>medium</b> difficulty.",
   "steps": "Start Sudoku.\nSelect medium game.\nFill out the squares until the whole board is completed.",
   "tips": "There's no time limit, so no need to rush.\nYou can get extra help from sudoku's help menu (F1).",

@@ -3,7 +3,7 @@
   "description": "Win a Medium Gnomine game 5 times",
   "collection": "ubuntu-desktop",
   "category": "Games:Gnomine",
-  "icon": "gnomine.png",
+  "icon": "gnomine.svg",
   "depends": "ubuntu-desktop/gnomine_win-medium",
   "author": "Rafał Cieślak <rafalcieslak256@ubuntu.com>",
   "summary": "You can achieve this accomplishment by finishing a Medium game in Gnomine 5 times.",

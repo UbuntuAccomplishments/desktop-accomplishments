@@ -3,7 +3,7 @@
   "description": "Wygraj w dużej grze Miny 5 razy",
   "collection": "ubuntu-desktop",
   "category": "Games:Gnomine",
-  "icon": "gnomine.png",
+  "icon": "gnomine.svg",
   "depends": "ubuntu-desktop/gnomine_win-large",
   "author": "Rafał Cieślak <rafalcieslak256@ubuntu.com>",
   "summary": "Możesz zdobyć te osiągnięcie jeśli ukończysz trudną grę Miny 5 razy",

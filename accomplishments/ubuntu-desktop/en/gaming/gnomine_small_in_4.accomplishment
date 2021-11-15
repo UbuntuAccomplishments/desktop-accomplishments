@@ -4,7 +4,7 @@
   "collection": "ubuntu-desktop",
   "category": "Games:Gnomine",
   "depends": "ubuntu-desktop/gnomine_small_in_8",
-  "icon": "gnomine.png",
+  "icon": "gnomine.svg",
   "summary": "To win this trophy, finish a Small Gnomine game under 4 seconds.\nYes, this is actually possible, but you need to be very skilled!\nAlthough it requires lots of luck, mad skill are also helpful.",
   "steps": "Start Gnomine.\nChoose 8x8 (small) game.\nFind all hidden mines as fast as possible!\nBe sure to finish under 4 seconds! YAY!",
   "tips": "This accomplishment requires lots of practice to achieve.\nPlay a lot, play everyday, train yourself!\nPlay on a window as small as possible, so that you need to move your mouse less.\nWhen it comes to that fast minesweeping, there is no time to think. Make moves immediately, if you thought too long, just start a new game.\nA lot of fields are not solvable within that short time. It may be helpful to ignore difficult random combinations, and do your best only on those fields, where 1/2 of the grid is uncovered in the first click.\nYou need LOTS of luck to achieve this one.",

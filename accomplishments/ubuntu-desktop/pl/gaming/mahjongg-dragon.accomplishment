@@ -3,7 +3,7 @@
   "description": "Ukończyłeś poziom Mahjongg - Czerwony Smok",
   "collection": "ubuntu-desktop",
   "category": "Games:Mahjongg",
-  "icon": "mahjongg.png",
+  "icon": "mahjongg.svg",
   "author": "s.fox <silver-fox@ubuntu.com>",
   "summary": "Mahjongg jest wersją klasycznej, wschodniej gry płytek dla jednego gracza, Madżong. Celem jest wyłonienie par podobnych płytek. Aby zdobyć te osiągnięcie musisz usunąć wszystkie płytki z poziomu Czerwony Smok.",
   "help": "https://live.gnome.org/Mahjongg"

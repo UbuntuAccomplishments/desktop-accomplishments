@@ -3,7 +3,7 @@
   "description": "Win an easy game of Sudoku",
   "collection": "ubuntu-desktop",
   "category": "Games:Sudoku",
-  "icon": "default.png",
+  "icon": "default.svg",
   "author": "Tony Vec <tvec623@gmail.com>",
   "summary": "You can achieve this accomplishment by completing a game of Sudoku on the <b>easy</b> difficulty.",
   "steps": "Start Sudoku.\nSelect an easy game.\nFill out the squares until the whole board is completed.",

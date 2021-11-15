@@ -3,7 +3,7 @@
   "description": "৪ (!) সেকেন্ডের কম সময়ের মধ্যে একটি নোমিন খেলা জিতুন.",
   "collection": "ubuntu-desktop",
   "category": "Games:Gnomine",
-  "icon": "gnomine.png",
+  "icon": "gnomine.svg",
   "depends": "ubuntu-desktop/gnomine_small_in_8",
   "author": "Rafał Cieślak <rafalcieslak256@ubuntu.com>",
   "summary": "এই ট্রফি জেতার জন্য, ৪ সেকেন্ডে একটি ক্ষুদ্র নোমিন খেলা শেষ করুন.\nহ্যাঁ, এটা আসলে সম্ভব, কিন্তু আপনাকে খুব দক্ষ হতে হবে!\nযদিও এর জন্য প্রচুর ভাগ্য প্রয়োজন, ক্ষিপ্র দক্ষতাও এর জন্য সহায়ক.",

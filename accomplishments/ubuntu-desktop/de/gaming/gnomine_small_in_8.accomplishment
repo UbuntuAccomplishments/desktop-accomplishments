@@ -3,7 +3,7 @@
   "description": "Gewinnen Sie ein kleines Spiel Minen in weniger als 8 Sekunden",
   "collection": "ubuntu-desktop",
   "category": "Games:Gnomine",
-  "icon": "gnomine.png",
+  "icon": "gnomine.svg",
   "depends": "ubuntu-desktop/gnomine_small_in_13",
   "author": "Rafał Cieślak <rafalcieslak256@ubuntu.com>",
   "summary": "Absolvieren Sie ein kleines Spiel Minen in unter 8 Sekunden um diese Errungenschaft zu erhalten.",

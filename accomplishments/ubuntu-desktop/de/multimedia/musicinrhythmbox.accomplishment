@@ -3,7 +3,7 @@
   "description": "Sie haben Rhythmbox verwendet",
   "collection": "ubuntu-desktop",
   "category": "Multimedia",
-  "icon": "default.png",
+  "icon": "default.svg",
   "author": "Charles Profitt <cprofitt@ubuntu.com>",
   "summary": "Rhythmbox ist ein Musik-Wiedergabeprogramm in Ubuntu.  Damit können Sie Musik von Ihrer lokalen Festplatte, von Ihrem  Netzwerkspeicher sowie Radiostreams abspielen.\nSie erhalten diese Errungenschaft, indem Sie Ihrer Rhythmbox-Bibliothek Musik <i>hinzufügen</i>.",
   "steps": "Klicken Sie auf <i>Dash-Startseite</>\nGeben Sie Rhythmbox ein\nEs wird Ihnen die Rhythmbox Anwendung angezeigt\nKlicken Sie das <i>Rhythmbox</>Symbol\nRechtsklicken Sie auf den 'Musik' Eintrag unter Musiksammlung und wählen Sie 'Datei importieren ...' für ein einzelnen Titel oder 'Ordner importieren ...' für einen Musikordner\nWählen Sie den gewünschten Ordner oder Titel",

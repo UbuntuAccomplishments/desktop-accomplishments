@@ -3,7 +3,7 @@
   "description": "Gagnez un petit jeu gnomine en moins de 8 secondes",
   "collection": "ubuntu-desktop",
   "category": "Games:Gnomine",
-  "icon": "gnomine.png",
+  "icon": "gnomine.svg",
   "depends": "ubuntu-desktop/gnomine_small_in_13",
   "author": "Rafał Cieślak <rafalcieslak256@ubuntu.com>",
   "summary": "Pour gagner ce trophée, finir un petit jeu gnomine moins de 8 secondes.",

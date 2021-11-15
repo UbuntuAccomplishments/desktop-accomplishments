@@ -3,7 +3,7 @@
   "description": "Wygraj małą grę Gnomine 10 razy.",
   "collection": "ubuntu-desktop",
   "category": "Games:Gnomine",
-  "icon": "gnomine.png",
+  "icon": "gnomine.svg",
   "depends": "ubuntu-desktop/gnomine_win-small",
   "author": "Rafał Cieślak <rafalcieslak256@ubuntu.com>",
   "summary": "Możesz zdobyć te osiągniecie przez ukończenie małej gry Miny 10 razy\nUdowodnij, że jesteś doświadczony saper!",

@@ -3,7 +3,7 @@
   "description": "Terminar una partida de Gnomine grande 5 veces",
   "collection": "ubuntu-desktop",
   "category": "Games:Gnomine",
-  "icon": "gnomine.png",
+  "icon": "gnomine.svg",
   "depends": "ubuntu-desktop/gnomine_win-large",
   "author": "Rafał Cieślak <rafalcieslak256@ubuntu.com>",
   "summary": "Puede conseguir este logro terminando una partida de Gnomine grande 5 veces.",

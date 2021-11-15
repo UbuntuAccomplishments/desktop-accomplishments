@@ -4,7 +4,7 @@
   "collection": "ubuntu-desktop",
   "category": "Games:Gnomine",
   "depends": "ubuntu-desktop/gnomine_win-medium",
-  "icon": "gnomine.png",
+  "icon": "gnomine.svg",
   "summary": "You can achieve this accomplishment by finishing a Medium game in Gnomine 5 times.",
   "steps": "Start Gnomine.\nChoose 16x16 (medium) game.\nFind all hidden mines!\nRepeat 5 times.",
   "tips": "It can take some time to accomplish this one.\nNo need to hurry! Time does not matter, so choose your moves wisely.",

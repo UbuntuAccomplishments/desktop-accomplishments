@@ -3,7 +3,7 @@
   "description": "Gana un juego Gnomine en modo pequeño en menos de 8 segundos.",
   "collection": "ubuntu-desktop",
   "category": "Games:Gnomine",
-  "icon": "gnomine.png",
+  "icon": "gnomine.svg",
   "depends": "ubuntu-desktop/gnomine_small_in_13",
   "author": "Rafał Cieślak <rafalcieslak256@ubuntu.com>",
   "summary": "Para ganar este trofeo, debes finalizar un juego de Gnomine en modo pequeño en menos de 8 segundos",

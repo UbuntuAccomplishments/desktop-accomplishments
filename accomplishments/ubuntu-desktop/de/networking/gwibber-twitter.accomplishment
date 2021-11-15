@@ -3,7 +3,7 @@
   "description": "Sie haben Ihr Twitter-Konto in Gwibber hinzugefügt",
   "collection": "ubuntu-desktop",
   "category": "Networking:Gwibber",
-  "icon": "twitter.png",
+  "icon": "twitter.svg",
   "author": "s.fox <silver-fox@ubuntu.com>",
   "summary": "Gwibber ist ein Programm für Soziale Medien für den Ubuntu Desktop. Damit können Sie Status-Updates von Microblogging-Seiten und Sozialen Netzwerken wie  Twitter, Facebook und Identi.ca verschicken und empfangen.\nSie erhalten diese Errungenschaft indem Sie ihr <b>twitter</b> Konto mit Gwibber authorisieren.",
   "steps": "Klicken Sie auf <i>Dash-Startseite</>\nGeben Sie Gwibber ein\nEs wird Ihnen die Gwibber Anwendung angezeigt\nKlicken Sie das <i>Gwibber</>Symbol\nIm Menü klicken Sie auf <b>Bearbeiten</b> <b>Konten</b>\nKlicken Sie auf die + Schaltfläche\nWählen Sie Twitter und klicken Sie dann auf die Hinzufügen Schaltfläche\nKlicken Sie Legitimieren\nGeben Sie Ihre Twitter Daten ein und klicken Sie auf 'Authorisiere App'",

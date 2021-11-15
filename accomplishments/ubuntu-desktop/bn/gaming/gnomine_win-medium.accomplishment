@@ -3,7 +3,7 @@
   "description": "একটি মাঝারি নোমিন খেলা জিতুন.",
   "collection": "ubuntu-desktop",
   "category": "Games:Gnomine",
-  "icon": "gnomine.png",
+  "icon": "gnomine.svg",
   "author": "Rafał Cieślak <rafalcieslak256@ubuntu.com>",
   "summary": "আপনি নোমিনে একটি মাঝারি খেলা শেষ করে এই নিষ্পাদন অর্জন করতে পারেন. .",
   "steps": "নোমিনের শুরু করুন. ১৬x১৬ (মাঝারি) খেলাটি নির্বাচন করুন. সব লুকায়িত খনিসমূহ খুজুন! .",

@@ -2,7 +2,7 @@
   "title": "Change Wallpaper",
   "description": "You have changed your wallpaper",
   "category": "Accessories:System Settings",
-  "icon": "default.png",
+  "icon": "default.svg",
   "author": "s.fox <silver-fox@ubuntu.com>",
   "collection": "ubuntu-desktop",
   "summary": "This accomplishment is awarded when you change the wallpaper used by Ubuntu.",

@@ -3,7 +3,7 @@
   "description": "Разберите среднее поле в Gnomine 5 раз",
   "collection": "ubuntu-desktop",
   "category": "Games:Gnomine",
-  "icon": "gnomine.png",
+  "icon": "gnomine.svg",
   "depends": "ubuntu-desktop/gnomine_win-medium",
   "author": "Rafał Cieślak <rafalcieslak256@ubuntu.com>",
   "summary": "Вы можете получить это достижение, разобрав среднее поле в Gnomine 5 раз.",

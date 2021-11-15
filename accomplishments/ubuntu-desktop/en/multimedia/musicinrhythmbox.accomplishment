@@ -2,7 +2,7 @@
   "title": "Used Rhythmbox",
   "description": "You have used Rhythmbox.",
   "category": "Multimedia",
-  "icon": "default.png",
+  "icon": "default.svg",
   "author": "Charles Profitt <cprofitt@ubuntu.com>",
   "collection": "ubuntu-desktop",
   "summary": "Rhythmbox is a music player in Ubuntu. You can use it to play music from local or shared music stores, or on-line stream radios.\nThis accomplishment is awarded when you have <b>added music</b> to your Rhythmbox library",

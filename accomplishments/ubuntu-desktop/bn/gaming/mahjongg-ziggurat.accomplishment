@@ -3,7 +3,7 @@
   "description": "The Ziggurat লেভেল - আপনি ম্যাজন্ঘ সমাপ্ত করেছেন.",
   "collection": "ubuntu-desktop",
   "category": "Games:Mahjongg",
-  "icon": "mahjongg.png",
+  "icon": "mahjongg.svg",
   "author": "s.fox <silver-fox@ubuntu.com>",
   "summary": "ম্যাজন্ঘ একটি সলিটার, ক্লাসিক ইস্টার্ন টালি খেলার (একক খেলোয়াড়) সংস্করণ, ম্যাজন্ঘ. উদ্দেশ্য হল অনুরূপ টাইল এর জোড়া নির্বাচন. এই নিষ্পাদন অর্জন করতে আপনাকে সব মিলিয়ে যা করতে হবে তা হল Ziggurat লেভেলের এর গ্রিড সাফ করা.",
   "help": "https://live.gnome.org/Mahjongg ."

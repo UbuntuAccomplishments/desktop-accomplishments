@@ -3,7 +3,7 @@
   "description": "Import photos/videos into Shotwell Photo Manager",
   "collection": "ubuntu-desktop",
   "category": "Multimedia",
-  "icon": "default.png",
+  "icon": "default.svg",
   "author": "Tony Vec <tvec623@gmail.com>",
   "summary": "Shotwell Photo Manager allows you to import, organize, view and edit images\nThis accomplishment is awarded when you <b>import photos or videos</b> into your Shotwell library",
   "steps": "Click the <i>Dash Home</i>\nEnter <i>Shotwell Photo Manager</i>\nYou will be presented with the Shotwell application icon. Click on it.\nTo import, you can: <ul><li>Drag and drop a folder/file onto the application; or</li><li> Go to <b>File</b> and choose <b>Import from folder...</b>; Select the folder you want to import and press <b>OK</b></li></ul>",

@@ -3,7 +3,7 @@
   "title": "Shared With Accomplishments Service",
   "description": "You have shared with the Accomplishments Service",
   "category": "Accessories:Accomplishments",
-  "icon": "default.png",
+  "icon": "default.svg",
   "summary": "Many of the different opportunities that are available in <i>Ubuntu Accomplishments</i> require validation through the Accomplishments Service.  The Accomplishments Service uses Ubuntu One to validate and store trophies you've earned.",
   "steps": "Authorize your Ubuntu One account in the Accomplishments Viewer.",
   "author": "s.fox <silver-fox@ubuntu.com>"

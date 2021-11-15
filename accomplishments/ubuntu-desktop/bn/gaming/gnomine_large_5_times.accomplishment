@@ -3,7 +3,7 @@
   "description": "একটি বড় নোমিনের খেলা ৫ বার জিতুন .",
   "collection": "ubuntu-desktop",
   "category": "Games:Gnomine",
-  "icon": "gnomine.png",
+  "icon": "gnomine.svg",
   "depends": "ubuntu-desktop/gnomine_win-large",
   "author": "Rafał Cieślak <rafalcieslak256@ubuntu.com>",
   "summary": "আপনি নোমিনের একটি বড় খেলা ৫ বার শেষ করে এই নিষ্পাদন অর্জন করতে পারেন. .",

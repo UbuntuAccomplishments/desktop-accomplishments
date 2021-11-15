@@ -3,7 +3,7 @@
   "description": "Ha añadido su cuenta de identi.ca a Gwibber",
   "collection": "ubuntu-desktop",
   "category": "Networking:Gwibber",
-  "icon": "identica.png",
+  "icon": "identica.svg",
   "author": "s.fox <silver-fox@ubuntu.com>",
   "summary": "Gwibber es un cliente de redes sociales del escritorio de Ubuntu. Es capaz de ver y publicar las actualizaciones de estado de sitios populares de microblogging y redes sociales como Twitter, Facebook e Identi.ca\nEste logro premia que ha autorizado su cuenta de <b>identi.ca</b> en Gwibber",
   "steps": "Click the <i>Dash Home</i>\nEnter <i>Gwibber</i>\nYou will be presented with the Gwibber application\nClick the <i>Gwibber</i> icon\nIn the menu navigate to <b>Edit</b> <b>Accounts</b>\nClick the + button\nSelect ident.ca and then click the Add button\nClick Authorise\nEnter your identi.ca details and click 'Allow'",

@@ -3,7 +3,7 @@
   "description": "একটি বড় নোমিন খেলা জিতুন .",
   "collection": "ubuntu-desktop",
   "category": "Games:Gnomine",
-  "icon": "gnomine.png",
+  "icon": "gnomine.svg",
   "author": "Rafał Cieślak <rafalcieslak256@ubuntu.com>",
   "summary": "আপনি একটি বড় নোমিন খেলা শেষ করেই এই নিষ্পাদন অর্জন করতে পারেন. .",
   "steps": "নোমিন শুরু করুন. ৩০x১৬ (বড়) খেলাটি নির্বাচন করুন. সব লুকায়িত খনিসমূহ খুজুন! .",

@@ -3,7 +3,7 @@
   "description": "Wygraj małą grę Miny w mniej niż 13 sekund\n.",
   "collection": "ubuntu-desktop",
   "category": "Games:Gnomine",
-  "icon": "gnomine.png",
+  "icon": "gnomine.svg",
   "depends": "ubuntu-desktop/gnomine_small_in_20",
   "author": "Rafał Cieślak <rafalcieslak256@ubuntu.com>",
   "summary": "Aby zdobyć te trofeum, ukończ małą grę Miny poniżej 13 sekund",
