@@ -1,0 +1,37 @@
+ubuntu-desktop-accomplishments (0.3~quantal2) quantal; urgency=low
+
+  * Redoing the upload to fix the incorrect distroseries, no other changes
+
+ -- Matthew Fischer <matthew.fischer@ubuntu.com>  Wed, 26 Sep 2012 16:25:52 -0600
+
+ubuntu-desktop-accomplishments (0.3~precise1) precise; urgency=low
+
+  [Rafał Cieślak]
+  * Removed empty script files
+  * Fixed script files attributes
+ 
+  [Matthew Fischer]
+  * Fixed title case in Gnomine accomplishments
+ 
+  [s.fox]
+  * New accomplishment "Change Wallpaper"
+  * New accomplishment "Gwibber - Added Identi.ca"
+  * New accomplishment "Gwibber - Added Twitter"
+  * New accomplishment "Gwibber - Facebook"
+ 
+  [Ted Gould]
+  * Fixed a small typo in gnomine-small-in-4
+ 
+  [Ben Hagan]
+  * Wrong Information in "Shared With Accomplishment Service"
+    Accomplishment (LP: #1036960)
+  * "Shared With Accomplishments Service" accomplishment is not fully 
+    defined (LP: #1013163)
+ 
+ -- Matthew Fischer <matthew.fischer@ubuntu.com>  Wed, 26 Sep 2012 16:18:47 -0600
+
+ubuntu-desktop-accomplishments (0.2) precise; urgency=low
+
+  * First release as part of the 0.2 release.
+
+ -- Jono Bacon <jono@ubuntu.com>  Tue, 12 Jun 2012 14:18:49 -0700
