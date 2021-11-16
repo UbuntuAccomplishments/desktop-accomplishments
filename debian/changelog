@@ -1,3 +1,9 @@
+ubuntu-desktop-accomplishments (0.4-ubuntu1) UNRELEASED; urgency=medium
+
+  * Port to python3 and ubuntu-accomplishments-daemon based on dart
+
+ -- Dani Llewellyn <diddledani@ubuntu.com>  Tue, 16 Nov 2021 22:09:41 +0000
+
 ubuntu-desktop-accomplishments (0.3~quantal2) quantal; urgency=low
 
   * Redoing the upload to fix the incorrect distroseries, no other changes
