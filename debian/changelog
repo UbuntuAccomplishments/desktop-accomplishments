@@ -1,4 +1,4 @@
-ubuntu-desktop-accomplishments (0.4ubuntu1) UNRELEASED; urgency=medium
+ubuntu-desktop-accomplishments (0.4ubuntu2) focal; urgency=medium
 
   * Port to python3 and ubuntu-accomplishments-daemon based on dart
 
