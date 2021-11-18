@@ -8,13 +8,22 @@ try:
         sys.exit(1)
     media_info = f.read()
     release_info = media_info.split()
-    install_release = release_info[1]
+    install_release = release_info[1].strip()
+    f.close()
     # get current release
-    out = subprocess.check_output(['lsb_release', '-r'],
-        universal_newlines=True).strip().decode('utf-8')
-    _, current_release = out.split(":")
-    current_release = current_release.strip()
-    install_release = install_release.strip()
+    f = open('/etc/lsb-release', 'r')
+    if not f:
+        sys.exit(1)
+    current_relinfo = f.read().splitlines()
+    current_release = None
+    for release_line in current_relinfo:
+        parts = release_line.split('=')
+        if len(parts) == 2 and parts[0].strip() == 'DISTRIB_RELEASE':
+            current_release = parts[1].strip()
+            break
+    if current_release is None or current_release == '':
+        sys.exit(1)
+
     # we need to strip off the LTS support release numbers or it will
     # confuse the float() call below.  So we go from 12.04.1 to 12.04
     rel = current_release.split('.')
