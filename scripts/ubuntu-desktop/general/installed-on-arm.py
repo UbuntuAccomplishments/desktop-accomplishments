@@ -5,7 +5,7 @@ try:
     # get architecture
     out = subprocess.check_output(['uname', '-i'],
         universal_newlines=True).strip()
-    if out.startswith("arm"):
+    if out.startswith("arm") or out.startswith("aarch"):
         sys.exit(0)
     else:
         sys.exit(1)
